@@ -1,0 +1,7 @@
+.gemini
+**/*.log
+**/*.tmp
+.idea/
+.vscode/
+.DS_Store
+Invoice*.pdf

@@ -1,0 +1,4232 @@
+[
+  {
+    "title": "Zeeba",
+    "category": "RICE",
+    "variant": "10LB",
+    "description": "Rich in antioxidants, Zeeba is an ideal ingredient for maintaining overall well-being and health. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Zeeba/img1.jpg",
+      "product_images/Zeeba/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shri lal mahal",
+    "category": "RICE",
+    "variant": "10LB",
+    "description": "Boosting digestion and immunity, Shri lal mahal is an aromatic choice for your everyday cooking needs. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shri_lal_mahal/img1.jpg",
+      "product_images/Shri_lal_mahal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sona masoori rice",
+    "category": "RICE",
+    "variant": "10 lb",
+    "description": "Sona masoori rice provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Sona_masoori_rice/img1.jpg",
+      "product_images/Sona_masoori_rice/img2.jpg"
+    ]
+  },
+  {
+    "title": "Royal chef secret basmati rice",
+    "category": "RICE",
+    "variant": "10lb",
+    "description": "Royal chef secret basmati rice is a premium selection from our RICE range, carefully processed to retain its natural aroma and taste. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Royal_chef_secret_basmati_rice/img1.jpg",
+      "product_images/Royal_chef_secret_basmati_rice/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lal Quilla rice",
+    "category": "RICE",
+    "variant": "",
+    "description": "Add a touch of perfection to your dishes with Lal Quilla rice, sourced with care and delivered fresh. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Lal_Quilla_rice/img1.jpg",
+      "product_images/Lal_Quilla_rice/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal rice",
+    "category": "RICE",
+    "variant": "",
+    "description": "Trusted by families for generations, Regal rice continues to be a symbol of quality in RICE. A great choice for your regular diet.",
+    "images": [
+      "product_images/Regal_rice/img1.jpg",
+      "product_images/Regal_rice/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kitchen King",
+    "category": "RICE",
+    "variant": "",
+    "description": "Kitchen King is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Kitchen_King/img1.jpg",
+      "product_images/Kitchen_King/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dosa rice/ Idli rice",
+    "category": "RICE",
+    "variant": "20LB",
+    "description": "Specifically selected for its premium grade, Dosa rice/ Idli rice is a must-have for a well-stocked pantry. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Dosa_rice_Idli_rice/img1.jpg",
+      "product_images/Dosa_rice_Idli_rice/img2.jpg"
+    ]
+  },
+  {
+    "title": "Amchoor Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Add a touch of perfection to your dishes with Amchoor Powder, sourced with care and delivered fresh. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Amchoor_Powder/img1.jpg",
+      "product_images/Amchoor_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Anardana Powder",
+    "category": "SPICES",
+    "variant": "100 gms",
+    "description": "Rich in antioxidants, Anardana Powder is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Anardana_Powder/img1.jpg",
+      "product_images/Anardana_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Anardana Whole",
+    "category": "SPICES",
+    "variant": "100 gms",
+    "description": "Boosting digestion and immunity, Anardana Whole is an aromatic choice for your everyday cooking needs. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Anardana_Whole/img1.jpg",
+      "product_images/Anardana_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Black Pepper Whole",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Black Pepper Whole provides the essential nutrients required for a healthy lifestyle. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Black_Pepper_Whole/img1.jpg",
+      "product_images/Black_Pepper_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Black Pepper Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Black Pepper Powder serves as an excellent source of vital nutrients and energy. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Black_Pepper_Powder/img1.jpg",
+      "product_images/Black_Pepper_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "White Pepper Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "White Pepper Powder is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Packed in hygienic conditions.",
+    "images": [
+      "product_images/White_Pepper_Powder/img1.jpg",
+      "product_images/White_Pepper_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ginger Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Ginger Powder serves as an excellent source of vital nutrients and energy. A pure and natural product.",
+    "images": [
+      "product_images/Ginger_Powder/img1.jpg",
+      "product_images/Ginger_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Garlic Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Specifically selected for its premium grade, Garlic Powder is a must-have for a well-stocked pantry. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Garlic_Powder/img1.jpg",
+      "product_images/Garlic_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Black Salt",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Black Salt continues to be a symbol of quality in SPICES. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Black_Salt/img1.jpg",
+      "product_images/Black_Salt/img2.jpg"
+    ]
+  },
+  {
+    "title": "MSG/ Tasting Salt",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "MSG/ Tasting Salt is a premium selection from our SPICES range, carefully processed to retain its natural aroma and taste. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/MSG_Tasting_Salt/img1.jpg",
+      "product_images/MSG_Tasting_Salt/img2.jpg"
+    ]
+  },
+  {
+    "title": "Whole Red Chilli",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Whole Red Chilli continues to be a symbol of quality in SPICES. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Whole_Red_Chilli/img1.jpg",
+      "product_images/Whole_Red_Chilli/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chilli Flakes/Crushed",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Naturally low in fat, Chilli Flakes/Crushed is a healthy carbohydrate source for a balanced and energetic diet. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Chilli_Flakes_Crushed/img1.jpg",
+      "product_images/Chilli_Flakes_Crushed/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chilli Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Enhance your culinary creations by adding Chilli Powder, preferred by professional chefs for its quality. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Chilli_Powder/img1.jpg",
+      "product_images/Chilli_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Extra Hot Chili Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Superior quality Extra Hot Chili Powder is now available to help you create delicious and nutritious meals. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Extra_Hot_Chili_Powder/img1.jpg",
+      "product_images/Extra_Hot_Chili_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kashmiri Chilly Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Superior quality Kashmiri Chilly Powder is now available to help you create delicious and nutritious meals. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Kashmiri_Chilly_Powder/img1.jpg",
+      "product_images/Kashmiri_Chilly_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Paprika",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Paprika is a premium selection from our SPICES range, carefully processed to retain its natural aroma and taste. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Paprika/img1.jpg",
+      "product_images/Paprika/img2.jpg"
+    ]
+  },
+  {
+    "title": "Garam Masala",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Garam Masala provides the essential nutrients required for a healthy lifestyle. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Garam_Masala/img1.jpg",
+      "product_images/Garam_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Curry Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Enhance your culinary creations by adding Curry Powder, preferred by professional chefs for its quality. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Curry_Powder/img1.jpg",
+      "product_images/Curry_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Turmeric Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Turmeric Powder provides the essential nutrients required for a healthy lifestyle. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Turmeric_Powder/img1.jpg",
+      "product_images/Turmeric_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coriander Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Coriander Powder is a premium selection from our SPICES range, carefully processed to retain its natural aroma and taste. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Coriander_Powder/img1.jpg",
+      "product_images/Coriander_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coriander Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Coriander Seeds serves as an excellent source of vital nutrients and energy. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Coriander_Seeds/img1.jpg",
+      "product_images/Coriander_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cumin Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Specifically selected for its premium grade, Cumin Powder is a must-have for a well-stocked pantry. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Cumin_Powder/img1.jpg",
+      "product_images/Cumin_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cumin Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Boosting digestion and immunity, Cumin Seeds is an aromatic choice for your everyday cooking needs. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Cumin_Seeds/img1.jpg",
+      "product_images/Cumin_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dana Jerra Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Dana Jerra Powder continues to be a symbol of quality in SPICES. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Dana_Jerra_Powder/img1.jpg",
+      "product_images/Dana_Jerra_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kala Jeera",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Kala Jeera provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. A great choice for your regular diet.",
+    "images": [
+      "product_images/Kala_Jeera/img1.jpg",
+      "product_images/Kala_Jeera/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lucknowi fennel",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "In the SPICES category, Lucknowi fennel stands out for its unique blend of flavor and health benefits. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Lucknowi_fennel/img1.jpg",
+      "product_images/Lucknowi_fennel/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fennel Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "In the SPICES category, Fennel Seeds stands out for its unique blend of flavor and health benefits. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Fennel_Seeds/img1.jpg",
+      "product_images/Fennel_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fennel Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Add a touch of perfection to your dishes with Fennel Powder, sourced with care and delivered fresh. A pure and natural product.",
+    "images": [
+      "product_images/Fennel_Powder/img1.jpg",
+      "product_images/Fennel_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fennel Candy",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Fennel Candy is an ideal ingredient for maintaining overall well-being and health. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Fennel_Candy/img1.jpg",
+      "product_images/Fennel_Candy/img2.jpg"
+    ]
+  },
+  {
+    "title": "Rock Candy",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Add a touch of perfection to your dishes with Rock Candy, sourced with care and delivered fresh. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Rock_Candy/img1.jpg",
+      "product_images/Rock_Candy/img2.jpg"
+    ]
+  },
+  {
+    "title": "Green Mukhwas",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Green Mukhwas provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Green_Mukhwas/img1.jpg",
+      "product_images/Green_Mukhwas/img2.jpg"
+    ]
+  },
+  {
+    "title": "Red Mukhwas",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Red Mukhwas is a premium selection from our SPICES range, carefully processed to retain its natural aroma and taste. A great choice for your regular diet.",
+    "images": [
+      "product_images/Red_Mukhwas/img1.jpg",
+      "product_images/Red_Mukhwas/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ajwain Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Ajwain Seeds is an ideal ingredient for maintaining overall well-being and health. A pure and natural product.",
+    "images": [
+      "product_images/Ajwain_Seeds/img1.jpg",
+      "product_images/Ajwain_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Poppy Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Boosting digestion and immunity, Poppy Seeds is an aromatic choice for your everyday cooking needs. A great choice for your regular diet.",
+    "images": [
+      "product_images/Poppy_Seeds/img1.jpg",
+      "product_images/Poppy_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mustard Seeds Black",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Mustard Seeds Black offers an authentic flavor profile that is essential for various traditional recipes. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Mustard_Seeds_Black/img1.jpg",
+      "product_images/Mustard_Seeds_Black/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sesame Seeds White",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Discover the difference with Sesame Seeds White, a top-tier SPICES item for health and wellness. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Sesame_Seeds_White/img1.jpg",
+      "product_images/Sesame_Seeds_White/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sesame Seeds  Brown",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Boosting digestion and immunity, Sesame Seeds  Brown is an aromatic choice for your everyday cooking needs. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Sesame_Seeds__Brown/img1.jpg",
+      "product_images/Sesame_Seeds__Brown/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kalonji Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Kalonji Seeds is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A pure and natural product.",
+    "images": [
+      "product_images/Kalonji_Seeds/img1.jpg",
+      "product_images/Kalonji_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Methi Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "In the SPICES category, Methi Seeds stands out for its unique blend of flavor and health benefits. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Methi_Seeds/img1.jpg",
+      "product_images/Methi_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Crushed Mint",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Crushed Mint is an ideal ingredient for maintaining overall well-being and health. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Crushed_Mint/img1.jpg",
+      "product_images/Crushed_Mint/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dhagar Phool",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Dhagar Phool is an ideal ingredient for maintaining overall well-being and health. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Dhagar_Phool/img1.jpg",
+      "product_images/Dhagar_Phool/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cinamon Stick - Flat",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Naturally low in fat, Cinamon Stick - Flat is a healthy carbohydrate source for a balanced and energetic diet. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Cinamon_Stick_-_Flat/img1.jpg",
+      "product_images/Cinamon_Stick_-_Flat/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cinamon Stick - Round",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Cinamon Stick - Round is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A pure and natural product.",
+    "images": [
+      "product_images/Cinamon_Stick_-_Round/img1.jpg",
+      "product_images/Cinamon_Stick_-_Round/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cinnamon Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Cinnamon Powder provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Cinnamon_Powder/img1.jpg",
+      "product_images/Cinnamon_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cloves",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "A widely recognized favorite, Cloves is celebrated for its purity and unadulterated nature. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Cloves/img1.jpg",
+      "product_images/Cloves/img2.jpg"
+    ]
+  },
+  {
+    "title": "Clove Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Superior quality Clove Powder is now available to help you create delicious and nutritious meals. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Clove_Powder/img1.jpg",
+      "product_images/Clove_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Green Cardamom",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "In the SPICES category, Green Cardamom stands out for its unique blend of flavor and health benefits. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Green_Cardamom/img1.jpg",
+      "product_images/Green_Cardamom/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cardamom Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Cardamom Powder is a premium selection from our SPICES range, carefully processed to retain its natural aroma and taste. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Cardamom_Powder/img1.jpg",
+      "product_images/Cardamom_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cardamom Seeds",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Discover the difference with Cardamom Seeds, a top-tier SPICES item for health and wellness. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Cardamom_Seeds/img1.jpg",
+      "product_images/Cardamom_Seeds/img2.jpg"
+    ]
+  },
+  {
+    "title": "Black Cardamom",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Black Cardamom is an ideal ingredient for maintaining overall well-being and health. A pure and natural product.",
+    "images": [
+      "product_images/Black_Cardamom/img1.jpg",
+      "product_images/Black_Cardamom/img2.jpg"
+    ]
+  },
+  {
+    "title": "Bay Leaf",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Superior quality Bay Leaf is now available to help you create delicious and nutritious meals. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Bay_Leaf/img1.jpg",
+      "product_images/Bay_Leaf/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mace (Zavitri) Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Mace (Zavitri) Powder is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Mace_(Zavitri)_Powder/img1.jpg",
+      "product_images/Mace_(Zavitri)_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mace (Zavitri) Whole",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Superior quality Mace (Zavitri) Whole is now available to help you create delicious and nutritious meals. A pure and natural product.",
+    "images": [
+      "product_images/Mace_(Zavitri)_Whole/img1.jpg",
+      "product_images/Mace_(Zavitri)_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Nutmeg (Jayfal) Powder",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "A widely recognized favorite, Nutmeg (Jayfal) Powder is celebrated for its purity and unadulterated nature. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Nutmeg_(Jayfal)_Powder/img1.jpg",
+      "product_images/Nutmeg_(Jayfal)_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Nutmeg (Jayfal) Whole",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "In the SPICES category, Nutmeg (Jayfal) Whole stands out for its unique blend of flavor and health benefits. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Nutmeg_(Jayfal)_Whole/img1.jpg",
+      "product_images/Nutmeg_(Jayfal)_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Star Anise Whole",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Specifically selected for its premium grade, Star Anise Whole is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Star_Anise_Whole/img1.jpg",
+      "product_images/Star_Anise_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Panch Puran",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Panch Puran is an ideal ingredient for maintaining overall well-being and health. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Panch_Puran/img1.jpg",
+      "product_images/Panch_Puran/img2.jpg"
+    ]
+  },
+  {
+    "title": "65 masala",
+    "category": "SPICES",
+    "variant": "1 lb",
+    "description": "Superior quality 65 masala is now available to help you create delicious and nutritious meals. A pure and natural product.",
+    "images": [
+      "product_images/65_masala/img1.jpg",
+      "product_images/65_masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kokum",
+    "category": "SPICES",
+    "variant": "1 LB",
+    "description": "Kokum is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Kokum/img1.jpg",
+      "product_images/Kokum/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Kasoori Methi",
+    "category": "MDH SPICES",
+    "variant": "1 KG",
+    "description": "Trusted by families for generations, MDH Kasoori Methi continues to be a symbol of quality in MDH SPICES. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/MDH_Kasoori_Methi/img1.jpg",
+      "product_images/MDH_Kasoori_Methi/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Pani Puri Masala",
+    "category": "MDH SPICES",
+    "variant": "100 gms",
+    "description": "Trusted by families for generations, MDH Pani Puri Masala continues to be a symbol of quality in MDH SPICES. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/MDH_Pani_Puri_Masala/img1.jpg",
+      "product_images/MDH_Pani_Puri_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Pav Bhaji Masala",
+    "category": "MDH SPICES",
+    "variant": "100 gms",
+    "description": "Superior quality MDH Pav Bhaji Masala is now available to help you create delicious and nutritious meals. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/MDH_Pav_Bhaji_Masala/img1.jpg",
+      "product_images/MDH_Pav_Bhaji_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Kashmiri Chilli Powder",
+    "category": "MDH SPICES",
+    "variant": "100 gms",
+    "description": "Rich in antioxidants, MDH Kashmiri Chilli Powder is an ideal ingredient for maintaining overall well-being and health. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/MDH_Kashmiri_Chilli_Powder/img1.jpg",
+      "product_images/MDH_Kashmiri_Chilli_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Chana Masala",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "Trusted by families for generations, MDH Chana Masala continues to be a symbol of quality in MDH SPICES. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/MDH_Chana_Masala/img1.jpg",
+      "product_images/MDH_Chana_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Chat Masala",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "A widely recognized favorite, MDH Chat Masala is celebrated for its purity and unadulterated nature. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/MDH_Chat_Masala/img1.jpg",
+      "product_images/MDH_Chat_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Deggie Mirchi",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "For health-conscious individuals, MDH Deggie Mirchi serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/MDH_Deggie_Mirchi/img1.jpg",
+      "product_images/MDH_Deggie_Mirchi/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Garam Masala",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "MDH Garam Masala is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/MDH_Garam_Masala/img1.jpg",
+      "product_images/MDH_Garam_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Kitchen King Masala",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "Our MDH SPICES collection features MDH Kitchen King Masala, known for its superior texture and natural goodness. Packed in hygienic conditions.",
+    "images": [
+      "product_images/MDH_Kitchen_King_Masala/img1.jpg",
+      "product_images/MDH_Kitchen_King_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "MDH Meat Masala",
+    "category": "MDH SPICES",
+    "variant": "500 gms",
+    "description": "Discover the difference with MDH Meat Masala, a top-tier MDH SPICES item for health and wellness. Packed in hygienic conditions.",
+    "images": [
+      "product_images/MDH_Meat_Masala/img1.jpg",
+      "product_images/MDH_Meat_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chick Peas",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Chick Peas is a premium selection from our CANNED PRODUCTS range, carefully processed to retain its natural aroma and taste. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Chick_Peas/img1.jpg",
+      "product_images/Chick_Peas/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato whole peeled",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "For health-conscious individuals, Tomato whole peeled serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Tomato_whole_peeled/img1.jpg",
+      "product_images/Tomato_whole_peeled/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato ketchup",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Naturally low in fat, Tomato ketchup is a healthy carbohydrate source for a balanced and energetic diet. A great choice for your regular diet.",
+    "images": [
+      "product_images/Tomato_ketchup/img1.jpg",
+      "product_images/Tomato_ketchup/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato puree",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Superior quality Tomato puree is now available to help you create delicious and nutritious meals. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Tomato_puree/img1.jpg",
+      "product_images/Tomato_puree/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato Crushed",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Add a touch of perfection to your dishes with Tomato Crushed, sourced with care and delivered fresh. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Tomato_Crushed/img1.jpg",
+      "product_images/Tomato_Crushed/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato paste",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "A widely recognized favorite, Tomato paste is celebrated for its purity and unadulterated nature. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Tomato_paste/img1.jpg",
+      "product_images/Tomato_paste/img2.jpg"
+    ]
+  },
+  {
+    "title": "Diced Tomato",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Diced Tomato is a premium selection from our CANNED PRODUCTS range, carefully processed to retain its natural aroma and taste. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Diced_Tomato/img1.jpg",
+      "product_images/Diced_Tomato/img2.jpg"
+    ]
+  },
+  {
+    "title": "Diced Potato",
+    "category": "CANNED PRODUCTS",
+    "variant": "6 cans",
+    "description": "Diced Potato is a premium selection from our CANNED PRODUCTS range, carefully processed to retain its natural aroma and taste. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Diced_Potato/img1.jpg",
+      "product_images/Diced_Potato/img2.jpg"
+    ]
+  },
+  {
+    "title": "Condensed milk",
+    "category": "CANNED PRODUCTS",
+    "variant": "",
+    "description": "Condensed milk offers an authentic flavor profile that is essential for various traditional recipes. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Condensed_milk/img1.jpg",
+      "product_images/Condensed_milk/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Achari Ghost",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Specifically selected for its premium grade, Shan Achari Ghost is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Achari_Ghost/img1.jpg",
+      "product_images/Shan_Achari_Ghost/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Bihari Kebab",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Specifically selected for its premium grade, Shan Bihari Kebab is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Bihari_Kebab/img1.jpg",
+      "product_images/Shan_Bihari_Kebab/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Bombay Biryani",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Specifically selected for its premium grade, Shan Bombay Biryani is a must-have for a well-stocked pantry. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Shan_Bombay_Biryani/img1.jpg",
+      "product_images/Shan_Bombay_Biryani/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Butter Chicken",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "In the SHAN SPICES category, Shan Butter Chicken stands out for its unique blend of flavor and health benefits. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Butter_Chicken/img1.jpg",
+      "product_images/Shan_Butter_Chicken/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Chaplee Kebab",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Discover the difference with Shan Chaplee Kebab, a top-tier SHAN SPICES item for health and wellness. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Chaplee_Kebab/img1.jpg",
+      "product_images/Shan_Chaplee_Kebab/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Chat Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Add a touch of perfection to your dishes with Shan Chat Masala, sourced with care and delivered fresh. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Shan_Chat_Masala/img1.jpg",
+      "product_images/Shan_Chat_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Chicken Curry Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Discover the difference with Shan Chicken Curry Masala, a top-tier SHAN SPICES item for health and wellness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Shan_Chicken_Curry_Masala/img1.jpg",
+      "product_images/Shan_Chicken_Curry_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Chicken Tikka",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Packed with protein and fiber, Shan Chicken Tikka provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Shan_Chicken_Tikka/img1.jpg",
+      "product_images/Shan_Chicken_Tikka/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Fish Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Experience the rich traditions of cooking with Shan Fish Masala, a highly versatile SHAN SPICES product. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Fish_Masala/img1.jpg",
+      "product_images/Shan_Fish_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Kat A Kat",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Shan Kat A Kat is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A pure and natural product.",
+    "images": [
+      "product_images/Shan_Kat_A_Kat/img1.jpg",
+      "product_images/Shan_Kat_A_Kat/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Keema Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Rich in antioxidants, Shan Keema Masala is an ideal ingredient for maintaining overall well-being and health. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Shan_Keema_Masala/img1.jpg",
+      "product_images/Shan_Keema_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Lahori Fish Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Shan Lahori Fish Masala provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Shan_Lahori_Fish_Masala/img1.jpg",
+      "product_images/Shan_Lahori_Fish_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Meat Tenderizer",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Trusted by families for generations, Shan Meat Tenderizer continues to be a symbol of quality in SHAN SPICES. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Shan_Meat_Tenderizer/img1.jpg",
+      "product_images/Shan_Meat_Tenderizer/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Seekh Kebab",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Shan Seekh Kebab provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shan_Seekh_Kebab/img1.jpg",
+      "product_images/Shan_Seekh_Kebab/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Sindhi Biryani",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Shan Sindhi Biryani offers an authentic flavor profile that is essential for various traditional recipes. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Shan_Sindhi_Biryani/img1.jpg",
+      "product_images/Shan_Sindhi_Biryani/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shan Tandoori Masala",
+    "category": "SHAN SPICES",
+    "variant": "100 gms",
+    "description": "Discover the difference with Shan Tandoori Masala, a top-tier SHAN SPICES item for health and wellness. A pure and natural product.",
+    "images": [
+      "product_images/Shan_Tandoori_Masala/img1.jpg",
+      "product_images/Shan_Tandoori_Masala/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chana Dal",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Chana Dal provides the essential nutrients required for a healthy lifestyle. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Chana_Dal/img1.jpg",
+      "product_images/Chana_Dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chana Dal Roasted",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Chana Dal Roasted provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Chana_Dal_Roasted/img1.jpg",
+      "product_images/Chana_Dal_Roasted/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chana Daliya Split",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Add a touch of perfection to your dishes with Chana Daliya Split, sourced with care and delivered fresh. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Chana_Daliya_Split/img1.jpg",
+      "product_images/Chana_Daliya_Split/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kala Chana",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Kala Chana provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Kala_Chana/img1.jpg",
+      "product_images/Kala_Chana/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kidney Beans Red",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Discover the difference with Kidney Beans Red, a top-tier DALS & BEANS **PACKED LENTILS** item for health and wellness. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Kidney_Beans_Red/img1.jpg",
+      "product_images/Kidney_Beans_Red/img2.jpg"
+    ]
+  },
+  {
+    "title": "Masoor Dal",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Masoor Dal serves as an excellent source of vital nutrients and energy. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Masoor_Dal/img1.jpg",
+      "product_images/Masoor_Dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Masoor Whole",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Superior quality Masoor Whole is now available to help you create delicious and nutritious meals. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Masoor_Whole/img1.jpg",
+      "product_images/Masoor_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Moong Dal",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Moong Dal serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Moong_Dal/img1.jpg",
+      "product_images/Moong_Dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Moong Whole",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Superior quality Moong Whole is now available to help you create delicious and nutritious meals. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Moong_Whole/img1.jpg",
+      "product_images/Moong_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Moong Chilaka",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Our DALS & BEANS **PACKED LENTILS** collection features Moong Chilaka, known for its superior texture and natural goodness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Moong_Chilaka/img1.jpg",
+      "product_images/Moong_Chilaka/img2.jpg"
+    ]
+  },
+  {
+    "title": "Toor Dal",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Toor Dal is a premium selection from our DALS & BEANS **PACKED LENTILS** range, carefully processed to retain its natural aroma and taste. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Toor_Dal/img1.jpg",
+      "product_images/Toor_Dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Urad Dal",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Enhance your culinary creations by adding Urad Dal, preferred by professional chefs for its quality. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Urad_Dal/img1.jpg",
+      "product_images/Urad_Dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Urad Whole",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Enhance your culinary creations by adding Urad Whole, preferred by professional chefs for its quality. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Urad_Whole/img1.jpg",
+      "product_images/Urad_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Urad Chilka",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "A widely recognized favorite, Urad Chilka is celebrated for its purity and unadulterated nature. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Urad_Chilka/img1.jpg",
+      "product_images/Urad_Chilka/img2.jpg"
+    ]
+  },
+  {
+    "title": "Urad Whole Gota",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "For health-conscious individuals, Urad Whole Gota serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Urad_Whole_Gota/img1.jpg",
+      "product_images/Urad_Whole_Gota/img2.jpg"
+    ]
+  },
+  {
+    "title": "White Vatana",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, White Vatana continues to be a symbol of quality in DALS & BEANS **PACKED LENTILS**. A great choice for your regular diet.",
+    "images": [
+      "product_images/White_Vatana/img1.jpg",
+      "product_images/White_Vatana/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mooth whole",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Specifically selected for its premium grade, Mooth whole is a must-have for a well-stocked pantry. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Mooth_whole/img1.jpg",
+      "product_images/Mooth_whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Yellow Split Peas",
+    "category": "DALS & BEANS",
+    "variant": "1 LB",
+    "description": "Yellow Split Peas provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Yellow_Split_Peas/img1.jpg",
+      "product_images/Yellow_Split_Peas/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh urad gota bulk bag",
+    "category": "DALS & BEANS",
+    "variant": "55lb",
+    "description": "Add a touch of perfection to your dishes with Tdh urad gota bulk bag, sourced with care and delivered fresh. A pure and natural product.",
+    "images": [
+      "product_images/Tdh_urad_gota_bulk_bag/img1.jpg",
+      "product_images/Tdh_urad_gota_bulk_bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh Toor dal bulk bag",
+    "category": "DALS & BEANS",
+    "variant": "55lb",
+    "description": "Rich in antioxidants, Tdh Toor dal bulk bag is an ideal ingredient for maintaining overall well-being and health. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Tdh_Toor_dal_bulk_bag/img1.jpg",
+      "product_images/Tdh_Toor_dal_bulk_bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh Urad dal bulk bag",
+    "category": "DALS & BEANS",
+    "variant": "55lb",
+    "description": "Our Tenali Double Horse collection features Tdh Urad dal bulk bag, known for its superior texture and natural goodness. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Tdh_Urad_dal_bulk_bag/img1.jpg",
+      "product_images/Tdh_Urad_dal_bulk_bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh moong dal bulk bag",
+    "category": "DALS & BEANS",
+    "variant": "55lb",
+    "description": "Boosting digestion and immunity, Tdh moong dal bulk bag is an aromatic choice for your everyday cooking needs. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Tdh_moong_dal_bulk_bag/img1.jpg",
+      "product_images/Tdh_moong_dal_bulk_bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh chana dal bulk bag",
+    "category": "DALS & BEANS",
+    "variant": "55lb",
+    "description": "Rich in antioxidants, Tdh chana dal bulk bag is an ideal ingredient for maintaining overall well-being and health. A great choice for your regular diet.",
+    "images": [
+      "product_images/Tdh_chana_dal_bulk_bag/img1.jpg",
+      "product_images/Tdh_chana_dal_bulk_bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh urad gota",
+    "category": "DALS & BEANS",
+    "variant": "4lb",
+    "description": "Naturally low in fat, Tdh urad gota is a healthy carbohydrate source for a balanced and energetic diet. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Tdh_urad_gota/img1.jpg",
+      "product_images/Tdh_urad_gota/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh toor dal",
+    "category": "DALS & BEANS",
+    "variant": "4lb",
+    "description": "Tdh toor dal is a premium selection from our Tenali Double Horse range, carefully processed to retain its natural aroma and taste. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Tdh_toor_dal/img1.jpg",
+      "product_images/Tdh_toor_dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh chana dal",
+    "category": "DALS & BEANS",
+    "variant": "4lb",
+    "description": "Experience the rich traditions of cooking with Tdh chana dal, a highly versatile Tenali Double Horse product. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Tdh_chana_dal/img1.jpg",
+      "product_images/Tdh_chana_dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tdh moong dal",
+    "category": "DALS & BEANS",
+    "variant": "4lb",
+    "description": "Rich in antioxidants, Tdh moong dal is an ideal ingredient for maintaining overall well-being and health. A great choice for your regular diet.",
+    "images": [
+      "product_images/Tdh_moong_dal/img1.jpg",
+      "product_images/Tdh_moong_dal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Besan ( Meera)",
+    "category": "FLOURS",
+    "variant": "4 LB",
+    "description": "Our FLOURS collection features Besan ( Meera), known for its superior texture and natural goodness. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Besan_(_Meera)/img1.jpg",
+      "product_images/Besan_(_Meera)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Brar \u2013 Corn Flour",
+    "category": "FLOURS",
+    "variant": "20 LB",
+    "description": "Bring home the true essence of quality with Brar \u2013 Corn Flour, perfect for both daily use and special occasions. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Brar_\u2013_Corn_Flour/img1.jpg",
+      "product_images/Brar_\u2013_Corn_Flour/img2.jpg"
+    ]
+  },
+  {
+    "title": "Golden Temple Atta",
+    "category": "FLOURS",
+    "variant": "20 LB",
+    "description": "Discover the difference with Golden Temple Atta, a top-tier FLOURS item for health and wellness. A pure and natural product.",
+    "images": [
+      "product_images/Golden_Temple_Atta/img1.jpg",
+      "product_images/Golden_Temple_Atta/img2.jpg"
+    ]
+  },
+  {
+    "title": "Idli Rava ( Cream of Rice)",
+    "category": "FLOURS",
+    "variant": "1 LB",
+    "description": "Idli Rava ( Cream of Rice) is a premium selection from our FLOURS range, carefully processed to retain its natural aroma and taste. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Idli_Rava_(_Cream_of_Rice)/img1.jpg",
+      "product_images/Idli_Rava_(_Cream_of_Rice)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Laxmi Besan Flour",
+    "category": "FLOURS",
+    "variant": "2 LB",
+    "description": "Experience the rich traditions of cooking with Laxmi Besan Flour, a highly versatile FLOURS product. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Laxmi_Besan_Flour/img1.jpg",
+      "product_images/Laxmi_Besan_Flour/img2.jpg"
+    ]
+  },
+  {
+    "title": "Rice Flour",
+    "category": "FLOURS",
+    "variant": "1 LB",
+    "description": "Our FLOURS collection features Rice Flour, known for its superior texture and natural goodness. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Rice_Flour/img1.jpg",
+      "product_images/Rice_Flour/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sooji ( Farina )",
+    "category": "FLOURS",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Sooji ( Farina ) continues to be a symbol of quality in FLOURS. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Sooji_(_Farina_)/img1.jpg",
+      "product_images/Sooji_(_Farina_)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gold medal all purpose flour",
+    "category": "FLOURS",
+    "variant": "50LB",
+    "description": "Specifically selected for its premium grade, Gold medal all purpose flour is a must-have for a well-stocked pantry. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Gold_medal_all_purpose_flour/img1.jpg",
+      "product_images/Gold_medal_all_purpose_flour/img2.jpg"
+    ]
+  },
+  {
+    "title": "All purpose flour",
+    "category": "FLOURS",
+    "variant": "20lb",
+    "description": "All purpose flour is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/All_purpose_flour/img1.jpg",
+      "product_images/All_purpose_flour/img2.jpg"
+    ]
+  },
+  {
+    "title": "Argo corn starch",
+    "category": "FLOURS",
+    "variant": "1LB",
+    "description": "Add a touch of perfection to your dishes with Argo corn starch, sourced with care and delivered fresh. A pure and natural product.",
+    "images": [
+      "product_images/Argo_corn_starch/img1.jpg",
+      "product_images/Argo_corn_starch/img2.jpg"
+    ]
+  },
+  {
+    "title": "Corn starch Royal",
+    "category": "FLOURS",
+    "variant": "50lb",
+    "description": "Corn starch Royal provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Corn_starch_Royal/img1.jpg",
+      "product_images/Corn_starch_Royal/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ashirvad Aata",
+    "category": "FLOURS",
+    "variant": "20 LB",
+    "description": "Packed with protein and fiber, Ashirvad Aata provides the essential nutrients required for a healthy lifestyle. A great choice for your regular diet.",
+    "images": [
+      "product_images/Ashirvad_Aata/img1.jpg",
+      "product_images/Ashirvad_Aata/img2.jpg"
+    ]
+  },
+  {
+    "title": "Almonds (Sliced) Blanched",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Almonds (Sliced) Blanched is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Almonds_(Sliced)_Blanched/img1.jpg",
+      "product_images/Almonds_(Sliced)_Blanched/img2.jpg"
+    ]
+  },
+  {
+    "title": "Almonds (Whole)",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Almonds (Whole) continues to be a symbol of quality in NUTS & DRY FRUITS. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Almonds_(Whole)/img1.jpg",
+      "product_images/Almonds_(Whole)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Green Pistacho",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Experience the rich traditions of cooking with Green Pistacho, a highly versatile NUTS & DRY FRUITS product. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Green_Pistacho/img1.jpg",
+      "product_images/Green_Pistacho/img2.jpg"
+    ]
+  },
+  {
+    "title": "Golden Raisin",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Golden Raisin is a premium selection from our NUTS & DRY FRUITS range, carefully processed to retain its natural aroma and taste. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Golden_Raisin/img1.jpg",
+      "product_images/Golden_Raisin/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cashew LWP",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Superior quality Cashew LWP is now available to help you create delicious and nutritious meals. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Cashew_LWP/img1.jpg",
+      "product_images/Cashew_LWP/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cashew Whole",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Add a touch of perfection to your dishes with Cashew Whole, sourced with care and delivered fresh. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Cashew_Whole/img1.jpg",
+      "product_images/Cashew_Whole/img2.jpg"
+    ]
+  },
+  {
+    "title": "Peanuts (Raw)",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Packed with protein and fiber, Peanuts (Raw) provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Peanuts_(Raw)/img1.jpg",
+      "product_images/Peanuts_(Raw)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Peanuts Blanched",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Rich in antioxidants, Peanuts Blanched is an ideal ingredient for maintaining overall well-being and health. A great choice for your regular diet.",
+    "images": [
+      "product_images/Peanuts_Blanched/img1.jpg",
+      "product_images/Peanuts_Blanched/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coconut Powder",
+    "category": "NUTS & DRY FRUITS",
+    "variant": "1 LB",
+    "description": "Coconut Powder is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Coconut_Powder/img1.jpg",
+      "product_images/Coconut_Powder/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mango Pulp - Kesar",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "850 gms",
+    "description": "Boosting digestion and immunity, Mango Pulp - Kesar is an aromatic choice for your everyday cooking needs. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Mango_Pulp_-_Kesar/img1.jpg",
+      "product_images/Mango_Pulp_-_Kesar/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mango Pulp RATNA BRAND",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "840 gms",
+    "description": "A widely recognized favorite, Mango Pulp RATNA BRAND is celebrated for its purity and unadulterated nature. A pure and natural product.",
+    "images": [
+      "product_images/Mango_Pulp_RATNA_BRAND/img1.jpg",
+      "product_images/Mango_Pulp_RATNA_BRAND/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coconut Milk - (Chaokoh)",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "Naturally low in fat, Coconut Milk - (Chaokoh) is a healthy carbohydrate source for a balanced and energetic diet. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Coconut_Milk_-_(Chaokoh)/img1.jpg",
+      "product_images/Coconut_Milk_-_(Chaokoh)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mixed Pickle - 77lb",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "77 LB",
+    "description": "Mixed Pickle - 77lb is a premium selection from our PICKLE-PULP- CHUTNEY range, carefully processed to retain its natural aroma and taste. A pure and natural product.",
+    "images": [
+      "product_images/Mixed_Pickle_-_77lb/img1.jpg",
+      "product_images/Mixed_Pickle_-_77lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Pachranga Mix Pickle",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "800 gms",
+    "description": "Rich in antioxidants, Pachranga Mix Pickle is an ideal ingredient for maintaining overall well-being and health. A pure and natural product.",
+    "images": [
+      "product_images/Pachranga_Mix_Pickle/img1.jpg",
+      "product_images/Pachranga_Mix_Pickle/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mango Pickle -18kg Barrell",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "18 KG",
+    "description": "Superior quality Mango Pickle -18kg Barrell is now available to help you create delicious and nutritious meals. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Mango_Pickle_-18kg_Barrell/img1.jpg",
+      "product_images/Mango_Pickle_-18kg_Barrell/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mango Pickle Barrell",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "88 LB",
+    "description": "Specifically selected for its premium grade, Mango Pickle Barrell is a must-have for a well-stocked pantry. A pure and natural product.",
+    "images": [
+      "product_images/Mango_Pickle_Barrell/img1.jpg",
+      "product_images/Mango_Pickle_Barrell/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mango Chutney Barrel",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "88 LB",
+    "description": "Rich in antioxidants, Mango Chutney Barrel is an ideal ingredient for maintaining overall well-being and health. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Mango_Chutney_Barrel/img1.jpg",
+      "product_images/Mango_Chutney_Barrel/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tamicon Tamarind Paste",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "1 LB",
+    "description": "Trusted by families for generations, Tamicon Tamarind Paste continues to be a symbol of quality in PICKLE-PULP- CHUTNEY. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Tamicon_Tamarind_Paste/img1.jpg",
+      "product_images/Tamicon_Tamarind_Paste/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sambal Oelek Chilli Paste",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "1 GALLON",
+    "description": "For health-conscious individuals, Sambal Oelek Chilli Paste serves as an excellent source of vital nutrients and energy. A great choice for your regular diet.",
+    "images": [
+      "product_images/Sambal_Oelek_Chilli_Paste/img1.jpg",
+      "product_images/Sambal_Oelek_Chilli_Paste/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulkand - Tower Brand",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "800 gms",
+    "description": "Bring home the true essence of quality with Gulkand - Tower Brand, perfect for both daily use and special occasions. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Gulkand_-_Tower_Brand/img1.jpg",
+      "product_images/Gulkand_-_Tower_Brand/img2.jpg"
+    ]
+  },
+  {
+    "title": "Saffron (Thread) - 1 CAN",
+    "category": "SPICES",
+    "variant": "1 oz",
+    "description": "Superior quality Saffron (Thread) - 1 CAN is now available to help you create delicious and nutritious meals. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Saffron_(Thread)_-_1_CAN/img1.jpg",
+      "product_images/Saffron_(Thread)_-_1_CAN/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kewda Essence -10*20",
+    "category": "SPICES",
+    "variant": "20 ml",
+    "description": "Our FLAVORS & ESSENCE collection features Kewda Essence -10*20, known for its superior texture and natural goodness. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Kewda_Essence_-10_20/img1.jpg",
+      "product_images/Kewda_Essence_-10_20/img2.jpg"
+    ]
+  },
+  {
+    "title": "Rose Essence -10*20m",
+    "category": "SPICES",
+    "variant": "20 ml",
+    "description": "Packed with protein and fiber, Rose Essence -10*20m provides the essential nutrients required for a healthy lifestyle. A great choice for your regular diet.",
+    "images": [
+      "product_images/Rose_Essence_-10_20m/img1.jpg",
+      "product_images/Rose_Essence_-10_20m/img2.jpg"
+    ]
+  },
+  {
+    "title": "Boondi",
+    "category": "SNACKS",
+    "variant": "20 Pkt/Case",
+    "description": "In the SNACKS ( RICE PRODUCTS ) category, Boondi stands out for its unique blend of flavor and health benefits. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Boondi/img1.jpg",
+      "product_images/Boondi/img2.jpg"
+    ]
+  },
+  {
+    "title": "bhel mix",
+    "category": "SNACKS",
+    "variant": "20 Pkt/Case",
+    "description": "Discover the difference with bhel mix, a top-tier SNACKS ( RICE PRODUCTS ) item for health and wellness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/bhel_mix/img1.jpg",
+      "product_images/bhel_mix/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fine Thin Sev",
+    "category": "SNACKS",
+    "variant": "20 Pkt/Case",
+    "description": "Boosting digestion and immunity, Fine Thin Sev is an aromatic choice for your everyday cooking needs. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Fine_Thin_Sev/img1.jpg",
+      "product_images/Fine_Thin_Sev/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mamra",
+    "category": "SNACKS",
+    "variant": "5 LB",
+    "description": "In the SNACKS ( RICE PRODUCTS ) category, Mamra stands out for its unique blend of flavor and health benefits. A great choice for your regular diet.",
+    "images": [
+      "product_images/Mamra/img1.jpg",
+      "product_images/Mamra/img2.jpg"
+    ]
+  },
+  {
+    "title": "Thick Poha",
+    "category": "SNACKS",
+    "variant": "1 LB",
+    "description": "Enhance your culinary creations by adding Thick Poha, preferred by professional chefs for its quality. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Thick_Poha/img1.jpg",
+      "product_images/Thick_Poha/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal Italian blend",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Regal Italian blend, perfect for both daily use and special occasions. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Regal_Italian_blend/img1.jpg",
+      "product_images/Regal_Italian_blend/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal Peas and Carrot",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Regal Peas and Carrot, perfect for both daily use and special occasions. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Regal_Peas_and_Carrot/img1.jpg",
+      "product_images/Regal_Peas_and_Carrot/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal Green peas",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "For health-conscious individuals, Regal Green peas serves as an excellent source of vital nutrients and energy. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Regal_Green_peas/img1.jpg",
+      "product_images/Regal_Green_peas/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal Cut beans",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Enhance your culinary creations by adding Regal Cut beans, preferred by professional chefs for its quality. A great choice for your regular diet.",
+    "images": [
+      "product_images/Regal_Cut_beans/img1.jpg",
+      "product_images/Regal_Cut_beans/img2.jpg"
+    ]
+  },
+  {
+    "title": "Broccoli Florets",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Add a touch of perfection to your dishes with Broccoli Florets, sourced with care and delivered fresh. A pure and natural product.",
+    "images": [
+      "product_images/Broccoli_Florets/img1.jpg",
+      "product_images/Broccoli_Florets/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mixed vegetables",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Our FROZEN collection features Mixed vegetables, known for its superior texture and natural goodness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Mixed_vegetables/img1.jpg",
+      "product_images/Mixed_vegetables/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal cut corn",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Our FROZEN collection features Regal cut corn, known for its superior texture and natural goodness. A pure and natural product.",
+    "images": [
+      "product_images/Regal_cut_corn/img1.jpg",
+      "product_images/Regal_cut_corn/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal Chopped spinach",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Naturally low in fat, Regal Chopped spinach is a healthy carbohydrate source for a balanced and energetic diet. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Regal_Chopped_spinach/img1.jpg",
+      "product_images/Regal_Chopped_spinach/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regal leaf spinach",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Regal leaf spinach is a premium selection from our FROZEN range, carefully processed to retain its natural aroma and taste. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Regal_leaf_spinach/img1.jpg",
+      "product_images/Regal_leaf_spinach/img2.jpg"
+    ]
+  },
+  {
+    "title": "Kawan paratha",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Kawan paratha, perfect for both daily use and special occasions. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Kawan_paratha/img1.jpg",
+      "product_images/Kawan_paratha/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lotus root deep",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Our FROZEN collection features Lotus root deep, known for its superior texture and natural goodness. A pure and natural product.",
+    "images": [
+      "product_images/Lotus_root_deep/img1.jpg",
+      "product_images/Lotus_root_deep/img2.jpg"
+    ]
+  },
+  {
+    "title": "Drumstick deep",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Drumstick deep is a must-have for a well-stocked pantry. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Drumstick_deep/img1.jpg",
+      "product_images/Drumstick_deep/img2.jpg"
+    ]
+  },
+  {
+    "title": "Daily Delight coconut shredded",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "In the FROZEN category, Daily Delight coconut shredded stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Daily_Delight_coconut_shredded/img1.jpg",
+      "product_images/Daily_Delight_coconut_shredded/img2.jpg"
+    ]
+  },
+  {
+    "title": "Daily Delight Jack fruit",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Daily Delight Jack fruit is a must-have for a well-stocked pantry. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Daily_Delight_Jack_fruit/img1.jpg",
+      "product_images/Daily_Delight_Jack_fruit/img2.jpg"
+    ]
+  },
+  {
+    "title": "Manchurian balls",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Manchurian balls offers an authentic flavor profile that is essential for various traditional recipes. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Manchurian_balls/img1.jpg",
+      "product_images/Manchurian_balls/img2.jpg"
+    ]
+  },
+  {
+    "title": "Custard pulp",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Packed with protein and fiber, Custard pulp provides the essential nutrients required for a healthy lifestyle. A pure and natural product.",
+    "images": [
+      "product_images/Custard_pulp/img1.jpg",
+      "product_images/Custard_pulp/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chikoo pulp",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "A widely recognized favorite, Chikoo pulp is celebrated for its purity and unadulterated nature. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Chikoo_pulp/img1.jpg",
+      "product_images/Chikoo_pulp/img2.jpg"
+    ]
+  },
+  {
+    "title": "Baking Powder Blue Bird",
+    "category": "SPICES",
+    "variant": "500 Gms",
+    "description": "Experience the rich traditions of cooking with Baking Powder Blue Bird, a highly versatile COOKING ESSENTIALS product. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Baking_Powder_Blue_Bird/img1.jpg",
+      "product_images/Baking_Powder_Blue_Bird/img2.jpg"
+    ]
+  },
+  {
+    "title": "Baking Powder Cleber Girl",
+    "category": "SPICES",
+    "variant": "10 LB",
+    "description": "For health-conscious individuals, Baking Powder Cleber Girl serves as an excellent source of vital nutrients and energy. A pure and natural product.",
+    "images": [
+      "product_images/Baking_Powder_Cleber_Girl/img1.jpg",
+      "product_images/Baking_Powder_Cleber_Girl/img2.jpg"
+    ]
+  },
+  {
+    "title": "Jaggery",
+    "category": "SPICES",
+    "variant": "11 LB",
+    "description": "Experience the rich traditions of cooking with Jaggery, a highly versatile COOKING ESSENTIALS product. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Jaggery/img1.jpg",
+      "product_images/Jaggery/img2.jpg"
+    ]
+  },
+  {
+    "title": "Salt",
+    "category": "SPICES",
+    "variant": "50 LB",
+    "description": "Rich in antioxidants, Salt is an ideal ingredient for maintaining overall well-being and health. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Salt/img1.jpg",
+      "product_images/Salt/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sugar",
+    "category": "SPICES",
+    "variant": "50 LB",
+    "description": "Naturally low in fat, Sugar is a healthy carbohydrate source for a balanced and energetic diet. A great choice for your regular diet.",
+    "images": [
+      "product_images/Sugar/img1.jpg",
+      "product_images/Sugar/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tamarind slab",
+    "category": "SPICES",
+    "variant": "200GMS",
+    "description": "Experience the rich traditions of cooking with Tamarind slab, a highly versatile COOKING ESSENTIALS product. A great choice for your regular diet.",
+    "images": [
+      "product_images/Tamarind_slab/img1.jpg",
+      "product_images/Tamarind_slab/img2.jpg"
+    ]
+  },
+  {
+    "title": "White Vinegar",
+    "category": "SPICES",
+    "variant": "1 Gal",
+    "description": "Discover the difference with White Vinegar, a top-tier COOKING ESSENTIALS item for health and wellness. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/White_Vinegar/img1.jpg",
+      "product_images/White_Vinegar/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dabur Rose Water",
+    "category": "SPICES",
+    "variant": "cs",
+    "description": "Naturally low in fat, Dabur Rose Water is a healthy carbohydrate source for a balanced and energetic diet. A great choice for your regular diet.",
+    "images": [
+      "product_images/Dabur_Rose_Water/img1.jpg",
+      "product_images/Dabur_Rose_Water/img2.jpg"
+    ]
+  },
+  {
+    "title": "Key rose water",
+    "category": "SPICES",
+    "variant": "1 Gal",
+    "description": "For health-conscious individuals, Key rose water serves as an excellent source of vital nutrients and energy. A great choice for your regular diet.",
+    "images": [
+      "product_images/Key_rose_water/img1.jpg",
+      "product_images/Key_rose_water/img2.jpg"
+    ]
+  },
+  {
+    "title": "Badshah Pav Bhaji",
+    "category": "SNACKS",
+    "variant": "100 gms",
+    "description": "Trusted by families for generations, Badshah Pav Bhaji continues to be a symbol of quality in MISC PRODUCTS. A great choice for your regular diet.",
+    "images": [
+      "product_images/Badshah_Pav_Bhaji/img1.jpg",
+      "product_images/Badshah_Pav_Bhaji/img2.jpg"
+    ]
+  },
+  {
+    "title": "Honest sandwich bread",
+    "category": "SNACKS",
+    "variant": "CS",
+    "description": "A widely recognized favorite, Honest sandwich bread is celebrated for its purity and unadulterated nature. A great choice for your regular diet.",
+    "images": [
+      "product_images/Honest_sandwich_bread/img1.jpg",
+      "product_images/Honest_sandwich_bread/img2.jpg"
+    ]
+  },
+  {
+    "title": "Bread Crumb Bag",
+    "category": "SNACKS",
+    "variant": "1 LB",
+    "description": "Our MISC PRODUCTS collection features Bread Crumb Bag, known for its superior texture and natural goodness. A great choice for your regular diet.",
+    "images": [
+      "product_images/Bread_Crumb_Bag/img1.jpg",
+      "product_images/Bread_Crumb_Bag/img2.jpg"
+    ]
+  },
+  {
+    "title": "Bread",
+    "category": "SNACKS",
+    "variant": "per packet",
+    "description": "In the MISC PRODUCTS category, Bread stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Bread/img1.jpg",
+      "product_images/Bread/img2.jpg"
+    ]
+  },
+  {
+    "title": "Curly fries",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Curly fries provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Curly_fries/img1.jpg",
+      "product_images/Curly_fries/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chings Veg Hakka Noodles",
+    "category": "SNACKS",
+    "variant": "150 gms",
+    "description": "Discover the difference with Chings Veg Hakka Noodles, a top-tier MISC PRODUCTS item for health and wellness. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Chings_Veg_Hakka_Noodles/img1.jpg",
+      "product_images/Chings_Veg_Hakka_Noodles/img2.jpg"
+    ]
+  },
+  {
+    "title": "Corn Starch",
+    "category": "SNACKS",
+    "variant": "1 LB",
+    "description": "In the MISC PRODUCTS category, Corn Starch stands out for its unique blend of flavor and health benefits. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Corn_Starch/img1.jpg",
+      "product_images/Corn_Starch/img2.jpg"
+    ]
+  },
+  {
+    "title": "ENO Regular",
+    "category": "SNACKS",
+    "variant": "100 gms",
+    "description": "Experience the rich traditions of cooking with ENO Regular, a highly versatile MISC PRODUCTS product. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/ENO_Regular/img1.jpg",
+      "product_images/ENO_Regular/img2.jpg"
+    ]
+  },
+  {
+    "title": "Falooda Sev",
+    "category": "SNACKS",
+    "variant": "50 gms",
+    "description": "Falooda Sev provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. A pure and natural product.",
+    "images": [
+      "product_images/Falooda_Sev/img1.jpg",
+      "product_images/Falooda_Sev/img2.jpg"
+    ]
+  },
+  {
+    "title": "Falooda Sev King",
+    "category": "SNACKS",
+    "variant": "500 gms",
+    "description": "Boosting digestion and immunity, Falooda Sev King is an aromatic choice for your everyday cooking needs. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Falooda_Sev_King/img1.jpg",
+      "product_images/Falooda_Sev_King/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fried Onions",
+    "category": "SNACKS",
+    "variant": "400 gms",
+    "description": "Fried Onions offers an authentic flavor profile that is essential for various traditional recipes. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Fried_Onions/img1.jpg",
+      "product_images/Fried_Onions/img2.jpg"
+    ]
+  },
+  {
+    "title": "LG Hing",
+    "category": "SNACKS",
+    "variant": "100 gms",
+    "description": "Rich in antioxidants, LG Hing is an ideal ingredient for maintaining overall well-being and health. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/LG_Hing/img1.jpg",
+      "product_images/LG_Hing/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lemon Juice",
+    "category": "SNACKS",
+    "variant": "32 oz",
+    "description": "Lemon Juice is a premium selection from our MISC PRODUCTS range, carefully processed to retain its natural aroma and taste. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Lemon_Juice/img1.jpg",
+      "product_images/Lemon_Juice/img2.jpg"
+    ]
+  },
+  {
+    "title": "French fries",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Our MISC PRODUCTS collection features French fries, known for its superior texture and natural goodness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/French_fries/img1.jpg",
+      "product_images/French_fries/img2.jpg"
+    ]
+  },
+  {
+    "title": "Onion rings",
+    "category": "SNACKS",
+    "variant": "CS",
+    "description": "Packed with protein and fiber, Onion rings provides the essential nutrients required for a healthy lifestyle. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Onion_rings/img1.jpg",
+      "product_images/Onion_rings/img2.jpg"
+    ]
+  },
+  {
+    "title": "Simple syrup",
+    "category": "SNACKS",
+    "variant": "1 GALLON",
+    "description": "A widely recognized favorite, Simple syrup is celebrated for its purity and unadulterated nature. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Simple_syrup/img1.jpg",
+      "product_images/Simple_syrup/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fryms",
+    "category": "SNACKS",
+    "variant": "PER CS",
+    "description": "Trusted by families for generations, Fryms continues to be a symbol of quality in MISC PRODUCTS. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Fryms/img1.jpg",
+      "product_images/Fryms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mayonnaise",
+    "category": "SNACKS",
+    "variant": "per unit",
+    "description": "Naturally low in fat, Mayonnaise is a healthy carbohydrate source for a balanced and energetic diet. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Mayonnaise/img1.jpg",
+      "product_images/Mayonnaise/img2.jpg"
+    ]
+  },
+  {
+    "title": "Soya Wadi losset",
+    "category": "SNACKS",
+    "variant": "400gms",
+    "description": "Soya Wadi losset offers an authentic flavor profile that is essential for various traditional recipes. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Soya_Wadi_losset/img1.jpg",
+      "product_images/Soya_Wadi_losset/img2.jpg"
+    ]
+  },
+  {
+    "title": "Roasted vermacilli",
+    "category": "SNACKS",
+    "variant": "72 pkts",
+    "description": "Roasted vermacilli offers an authentic flavor profile that is essential for various traditional recipes. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Roasted_vermacilli/img1.jpg",
+      "product_images/Roasted_vermacilli/img2.jpg"
+    ]
+  },
+  {
+    "title": "Panda oyster sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "Superior quality Panda oyster sauce is now available to help you create delicious and nutritious meals. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Panda_oyster_sauce/img1.jpg",
+      "product_images/Panda_oyster_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Deep dry garlic chutney",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "In the SAUCE category, Deep dry garlic chutney stands out for its unique blend of flavor and health benefits. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Deep_dry_garlic_chutney/img1.jpg",
+      "product_images/Deep_dry_garlic_chutney/img2.jpg"
+    ]
+  },
+  {
+    "title": "Siracha chilli sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "28oz",
+    "description": "Trusted by families for generations, Siracha chilli sauce continues to be a symbol of quality in SAUCE. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Siracha_chilli_sauce/img1.jpg",
+      "product_images/Siracha_chilli_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "siracha hot sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "28oz",
+    "description": "Trusted by families for generations, siracha hot sauce continues to be a symbol of quality in SAUCE. A great choice for your regular diet.",
+    "images": [
+      "product_images/siracha_hot_sauce/img1.jpg",
+      "product_images/siracha_hot_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ching Soy Sause",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "220 Gms",
+    "description": "Naturally low in fat, Ching Soy Sause is a healthy carbohydrate source for a balanced and energetic diet. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Ching_Soy_Sause/img1.jpg",
+      "product_images/Ching_Soy_Sause/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chings Green Chilli Sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "190 gms",
+    "description": "Chings Green Chilli Sauce provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Chings_Green_Chilli_Sauce/img1.jpg",
+      "product_images/Chings_Green_Chilli_Sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chings Red Chilli Sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "200gms",
+    "description": "Our SAUCE collection features Chings Red Chilli Sauce, known for its superior texture and natural goodness. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Chings_Red_Chilli_Sauce/img1.jpg",
+      "product_images/Chings_Red_Chilli_Sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chings schezwan stir fry sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "250gms",
+    "description": "In the SAUCE category, Chings schezwan stir fry sauce stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Chings_schezwan_stir_fry_sauce/img1.jpg",
+      "product_images/Chings_schezwan_stir_fry_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chings chilli vinegar sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "170gms",
+    "description": "Trusted by families for generations, Chings chilli vinegar sauce continues to be a symbol of quality in SAUCE. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Chings_chilli_vinegar_sauce/img1.jpg",
+      "product_images/Chings_chilli_vinegar_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Maggie Hot & Sweet sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "1kg",
+    "description": "For health-conscious individuals, Maggie Hot & Sweet sauce serves as an excellent source of vital nutrients and energy. A great choice for your regular diet.",
+    "images": [
+      "product_images/Maggie_Hot_&_Sweet_sauce/img1.jpg",
+      "product_images/Maggie_Hot_&_Sweet_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Honey mustard sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "A widely recognized favorite, Honey mustard sauce is celebrated for its purity and unadulterated nature. A pure and natural product.",
+    "images": [
+      "product_images/Honey_mustard_sauce/img1.jpg",
+      "product_images/Honey_mustard_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato ketchup",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "Superior quality Tomato ketchup is now available to help you create delicious and nutritious meals. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Tomato_ketchup/img1.jpg",
+      "product_images/Tomato_ketchup/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dark soysauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "Dark soysauce offers an authentic flavor profile that is essential for various traditional recipes. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Dark_soysauce/img1.jpg",
+      "product_images/Dark_soysauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mushroom soy sauce",
+    "category": "PICKLES / CHUTNEY",
+    "variant": "",
+    "description": "Superior quality Mushroom soy sauce is now available to help you create delicious and nutritious meals. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Mushroom_soy_sauce/img1.jpg",
+      "product_images/Mushroom_soy_sauce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Egg Shade",
+    "category": "SPICES",
+    "variant": "1 GALLON",
+    "description": "Packed with protein and fiber, Egg Shade provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Egg_Shade/img1.jpg",
+      "product_images/Egg_Shade/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tomato Shade",
+    "category": "SPICES",
+    "variant": "1 GALLON",
+    "description": "Bring home the true essence of quality with Tomato Shade, perfect for both daily use and special occasions. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Tomato_Shade/img1.jpg",
+      "product_images/Tomato_Shade/img2.jpg"
+    ]
+  },
+  {
+    "title": "DABUR mustard oil",
+    "category": "OIL",
+    "variant": "2.75LTR",
+    "description": "Bring home the true essence of quality with DABUR mustard oil, perfect for both daily use and special occasions. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/DABUR_mustard_oil/img1.jpg",
+      "product_images/DABUR_mustard_oil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Rajdhani mustard oil",
+    "category": "OIL",
+    "variant": "",
+    "description": "Rajdhani mustard oil is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Rajdhani_mustard_oil/img1.jpg",
+      "product_images/Rajdhani_mustard_oil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dabur Sesame oil",
+    "category": "OIL",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Dabur Sesame oil is a must-have for a well-stocked pantry. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Dabur_Sesame_oil/img1.jpg",
+      "product_images/Dabur_Sesame_oil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Soybean oil",
+    "category": "OIL",
+    "variant": "35LB",
+    "description": "Soybean oil provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Soybean_oil/img1.jpg",
+      "product_images/Soybean_oil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shortening fry oil",
+    "category": "OIL",
+    "variant": "35LB",
+    "description": "Experience the rich traditions of cooking with Shortening fry oil, a highly versatile OIL product. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shortening_fry_oil/img1.jpg",
+      "product_images/Shortening_fry_oil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ambika Waffers",
+    "category": "PAPADS",
+    "variant": "180 gms",
+    "description": "In the PAPADS category, Ambika Waffers stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Ambika_Waffers/img1.jpg",
+      "product_images/Ambika_Waffers/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cocktail Papad (Disco)",
+    "category": "PAPADS",
+    "variant": "80/Case",
+    "description": "Rich in antioxidants, Cocktail Papad (Disco) is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Cocktail_Papad_(Disco)/img1.jpg",
+      "product_images/Cocktail_Papad_(Disco)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Papad \u2013 Black Pep (Lijjat)",
+    "category": "PAPADS",
+    "variant": "80/Case",
+    "description": "Naturally low in fat, Papad \u2013 Black Pep (Lijjat) is a healthy carbohydrate source for a balanced and energetic diet. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Papad_\u2013_Black_Pep_(Lijjat)/img1.jpg",
+      "product_images/Papad_\u2013_Black_Pep_(Lijjat)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Papad \u2013 Jeera (Lijjat)",
+    "category": "PAPADS",
+    "variant": "80/Case",
+    "description": "Papad \u2013 Jeera (Lijjat) is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Papad_\u2013_Jeera_(Lijjat)/img1.jpg",
+      "product_images/Papad_\u2013_Jeera_(Lijjat)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Papad \u2013 Plain (Lijjat)",
+    "category": "PAPADS",
+    "variant": "80/Case",
+    "description": "Experience the rich traditions of cooking with Papad \u2013 Plain (Lijjat), a highly versatile PAPADS product. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Papad_\u2013_Plain_(Lijjat)/img1.jpg",
+      "product_images/Papad_\u2013_Plain_(Lijjat)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Papad \u2013 Punjabi (Lijjat)",
+    "category": "PAPADS",
+    "variant": "80/Case",
+    "description": "For health-conscious individuals, Papad \u2013 Punjabi (Lijjat) serves as an excellent source of vital nutrients and energy. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Papad_\u2013_Punjabi_(Lijjat)/img1.jpg",
+      "product_images/Papad_\u2013_Punjabi_(Lijjat)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Bru Coffee",
+    "category": "TEA & COFFEE",
+    "variant": "500 Gms",
+    "description": "Experience the rich traditions of cooking with Bru Coffee, a highly versatile TEA & COFFEE product. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Bru_Coffee/img1.jpg",
+      "product_images/Bru_Coffee/img2.jpg"
+    ]
+  },
+  {
+    "title": "NesCafe Coffee",
+    "category": "TEA & COFFEE",
+    "variant": "200 Gms",
+    "description": "Specifically selected for its premium grade, NesCafe Coffee is a must-have for a well-stocked pantry. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/NesCafe_Coffee/img1.jpg",
+      "product_images/NesCafe_Coffee/img2.jpg"
+    ]
+  },
+  {
+    "title": "Red Label Tea",
+    "category": "TEA & COFFEE",
+    "variant": "500 Gms",
+    "description": "In the TEA & COFFEE category, Red Label Tea stands out for its unique blend of flavor and health benefits. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Red_Label_Tea/img1.jpg",
+      "product_images/Red_Label_Tea/img2.jpg"
+    ]
+  },
+  {
+    "title": "Wagh Bakri Tea",
+    "category": "TEA & COFFEE",
+    "variant": "1 KG",
+    "description": "A widely recognized favorite, Wagh Bakri Tea is celebrated for its purity and unadulterated nature. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Wagh_Bakri_Tea/img1.jpg",
+      "product_images/Wagh_Bakri_Tea/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Punjabi Samosa 75gms",
+    "category": "SNACKS",
+    "variant": "150pc/cs",
+    "description": "Packed with protein and fiber, Indian Treat Punjabi Samosa 75gms provides the essential nutrients required for a healthy lifestyle. A great choice for your regular diet.",
+    "images": [
+      "product_images/Indian_Treat_Punjabi_Samosa_75gms/img1.jpg",
+      "product_images/Indian_Treat_Punjabi_Samosa_75gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Punjabi Samosa 40gms",
+    "category": "SNACKS",
+    "variant": "270pc/cs",
+    "description": "Indian Treat Punjabi Samosa 40gms is a premium selection from our APPETIZERS range, carefully processed to retain its natural aroma and taste. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Indian_Treat_Punjabi_Samosa_40gms/img1.jpg",
+      "product_images/Indian_Treat_Punjabi_Samosa_40gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Punjabi Samosa 20gms ( cocktail samosa )",
+    "category": "SNACKS",
+    "variant": "420pc/cs",
+    "description": "Our APPETIZERS collection features Indian Treat Punjabi Samosa 20gms ( cocktail samosa ), known for its superior texture and natural goodness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Indian_Treat_Punjabi_Samosa_20gms_(_cocktail_samosa_)/img1.jpg",
+      "product_images/Indian_Treat_Punjabi_Samosa_20gms_(_cocktail_samosa_)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Hyderabadi Onion Samosa 20gms",
+    "category": "SNACKS",
+    "variant": "420pc/cs",
+    "description": "In the APPETIZERS category, Indian Treat Hyderabadi Onion Samosa 20gms stands out for its unique blend of flavor and health benefits. A pure and natural product.",
+    "images": [
+      "product_images/Indian_Treat_Hyderabadi_Onion_Samosa_20gms/img1.jpg",
+      "product_images/Indian_Treat_Hyderabadi_Onion_Samosa_20gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indina Treat Aloo Tikki 35gms",
+    "category": "SNACKS",
+    "variant": "300pc/cs",
+    "description": "Indina Treat Aloo Tikki 35gms provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Indina_Treat_Aloo_Tikki_35gms/img1.jpg",
+      "product_images/Indina_Treat_Aloo_Tikki_35gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Vegetable Cutlet 25gms",
+    "category": "SNACKS",
+    "variant": "400pc/cs",
+    "description": "Naturally low in fat, Indian Treat Vegetable Cutlet 25gms is a healthy carbohydrate source for a balanced and energetic diet. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Indian_Treat_Vegetable_Cutlet_25gms/img1.jpg",
+      "product_images/Indian_Treat_Vegetable_Cutlet_25gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian Treat Veg Spring Roll 20gm",
+    "category": "SNACKS",
+    "variant": "400pc/cs",
+    "description": "For health-conscious individuals, Indian Treat Veg Spring Roll 20gm serves as an excellent source of vital nutrients and energy. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Indian_Treat_Veg_Spring_Roll_20gm/img1.jpg",
+      "product_images/Indian_Treat_Veg_Spring_Roll_20gm/img2.jpg"
+    ]
+  },
+  {
+    "title": "Aha onion samossa",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Aha onion samossa, perfect for both daily use and special occasions. A pure and natural product.",
+    "images": [
+      "product_images/Aha_onion_samossa/img1.jpg",
+      "product_images/Aha_onion_samossa/img2.jpg"
+    ]
+  },
+  {
+    "title": "Telugu onion samosa",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Enhance your culinary creations by adding Telugu onion samosa, preferred by professional chefs for its quality. A great choice for your regular diet.",
+    "images": [
+      "product_images/Telugu_onion_samosa/img1.jpg",
+      "product_images/Telugu_onion_samosa/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ashoka Samosa 75gms",
+    "category": "SNACKS",
+    "variant": "150pc/cs",
+    "description": "Ashoka Samosa 75gms is a premium selection from our APPETIZERS range, carefully processed to retain its natural aroma and taste. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Ashoka_Samosa_75gms/img1.jpg",
+      "product_images/Ashoka_Samosa_75gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ashoka Samosa 45gms",
+    "category": "SNACKS",
+    "variant": "270pc/cs",
+    "description": "For health-conscious individuals, Ashoka Samosa 45gms serves as an excellent source of vital nutrients and energy. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Ashoka_Samosa_45gms/img1.jpg",
+      "product_images/Ashoka_Samosa_45gms/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulab Jamun (Canned)",
+    "category": "SNACKS",
+    "variant": "300pc/ bucket",
+    "description": "Enhance your culinary creations by adding Gulab Jamun (Canned), preferred by professional chefs for its quality. A pure and natural product.",
+    "images": [
+      "product_images/Gulab_Jamun_(Canned)/img1.jpg",
+      "product_images/Gulab_Jamun_(Canned)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulab Jamun (Canned)",
+    "category": "SNACKS",
+    "variant": "200pc/bucket",
+    "description": "Naturally low in fat, Gulab Jamun (Canned) is a healthy carbohydrate source for a balanced and energetic diet. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Gulab_Jamun_(Canned)/img1.jpg",
+      "product_images/Gulab_Jamun_(Canned)/img2.jpg"
+    ]
+  },
+  {
+    "title": "Nanak rasmalai",
+    "category": "SNACKS",
+    "variant": "12pcs",
+    "description": "Bring home the true essence of quality with Nanak rasmalai, perfect for both daily use and special occasions. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Nanak_rasmalai/img1.jpg",
+      "product_images/Nanak_rasmalai/img2.jpg"
+    ]
+  },
+  {
+    "title": "Nanak rasmalai",
+    "category": "SNACKS",
+    "variant": "20pcs",
+    "description": "Our Deserts collection features Nanak rasmalai, known for its superior texture and natural goodness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Nanak_rasmalai/img1.jpg",
+      "product_images/Nanak_rasmalai/img2.jpg"
+    ]
+  },
+  {
+    "title": "Brar rasmalai",
+    "category": "SNACKS",
+    "variant": "20PCS/ 12PCS",
+    "description": "Experience the rich traditions of cooking with Brar rasmalai, a highly versatile Deserts product. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Brar_rasmalai/img1.jpg",
+      "product_images/Brar_rasmalai/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dahi bhalla",
+    "category": "SNACKS",
+    "variant": "PER CS",
+    "description": "Packed with protein and fiber, Dahi bhalla provides the essential nutrients required for a healthy lifestyle. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Dahi_bhalla/img1.jpg",
+      "product_images/Dahi_bhalla/img2.jpg"
+    ]
+  },
+  {
+    "title": "Nanak khoya",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Nanak khoya is a must-have for a well-stocked pantry. A pure and natural product.",
+    "images": [
+      "product_images/Nanak_khoya/img1.jpg",
+      "product_images/Nanak_khoya/img2.jpg"
+    ]
+  },
+  {
+    "title": "Monng dal halwa",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "In the Deserts category, Monng dal halwa stands out for its unique blend of flavor and health benefits. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Monng_dal_halwa/img1.jpg",
+      "product_images/Monng_dal_halwa/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gajar ka halwa",
+    "category": "SNACKS",
+    "variant": "30LB",
+    "description": "Specifically selected for its premium grade, Gajar ka halwa is a must-have for a well-stocked pantry. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Gajar_ka_halwa/img1.jpg",
+      "product_images/Gajar_ka_halwa/img2.jpg"
+    ]
+  },
+  {
+    "title": "Red onion 25lb",
+    "category": "FROZEN",
+    "variant": "25LB",
+    "description": "Red onion 25lb is a premium selection from our vegetables range, carefully processed to retain its natural aroma and taste. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Red_onion_25lb/img1.jpg",
+      "product_images/Red_onion_25lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Spanish onion 50lb",
+    "category": "FROZEN",
+    "variant": "50LB",
+    "description": "Boosting digestion and immunity, Spanish onion 50lb is an aromatic choice for your everyday cooking needs. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Spanish_onion_50lb/img1.jpg",
+      "product_images/Spanish_onion_50lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Spring onion/scallion",
+    "category": "FROZEN",
+    "variant": "2DZ",
+    "description": "For health-conscious individuals, Spring onion/scallion serves as an excellent source of vital nutrients and energy. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Spring_onion_scallion/img1.jpg",
+      "product_images/Spring_onion_scallion/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chinese ginger",
+    "category": "FROZEN",
+    "variant": "30LB",
+    "description": "Naturally low in fat, Chinese ginger is a healthy carbohydrate source for a balanced and energetic diet. A pure and natural product.",
+    "images": [
+      "product_images/Chinese_ginger/img1.jpg",
+      "product_images/Chinese_ginger/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cilantro",
+    "category": "FROZEN",
+    "variant": "60BUNCHES",
+    "description": "Cilantro is a premium selection from our vegetables range, carefully processed to retain its natural aroma and taste. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Cilantro/img1.jpg",
+      "product_images/Cilantro/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mint",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "In the vegetables category, Mint stands out for its unique blend of flavor and health benefits. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Mint/img1.jpg",
+      "product_images/Mint/img2.jpg"
+    ]
+  },
+  {
+    "title": "Celery",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Superior quality Celery is now available to help you create delicious and nutritious meals. A pure and natural product.",
+    "images": [
+      "product_images/Celery/img1.jpg",
+      "product_images/Celery/img2.jpg"
+    ]
+  },
+  {
+    "title": "Curry leaves",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "Our vegetables collection features Curry leaves, known for its superior texture and natural goodness. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Curry_leaves/img1.jpg",
+      "product_images/Curry_leaves/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian eggplant",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "Rich in antioxidants, Indian eggplant is an ideal ingredient for maintaining overall well-being and health. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Indian_eggplant/img1.jpg",
+      "product_images/Indian_eggplant/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chinese eggplant",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "Trusted by families for generations, Chinese eggplant continues to be a symbol of quality in vegetables. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Chinese_eggplant/img1.jpg",
+      "product_images/Chinese_eggplant/img2.jpg"
+    ]
+  },
+  {
+    "title": "Eggplant fancy",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "Naturally low in fat, Eggplant fancy is a healthy carbohydrate source for a balanced and energetic diet. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Eggplant_fancy/img1.jpg",
+      "product_images/Eggplant_fancy/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chinese okra",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "For health-conscious individuals, Chinese okra serves as an excellent source of vital nutrients and energy. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Chinese_okra/img1.jpg",
+      "product_images/Chinese_okra/img2.jpg"
+    ]
+  },
+  {
+    "title": "Indian okra",
+    "category": "FROZEN",
+    "variant": "10LB",
+    "description": "Trusted by families for generations, Indian okra continues to be a symbol of quality in vegetables. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Indian_okra/img1.jpg",
+      "product_images/Indian_okra/img2.jpg"
+    ]
+  },
+  {
+    "title": "Basel leaves",
+    "category": "FROZEN",
+    "variant": "per lb",
+    "description": "Rich in antioxidants, Basel leaves is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Basel_leaves/img1.jpg",
+      "product_images/Basel_leaves/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cabbage",
+    "category": "FROZEN",
+    "variant": "per cs",
+    "description": "Bring home the true essence of quality with Cabbage, perfect for both daily use and special occasions. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Cabbage/img1.jpg",
+      "product_images/Cabbage/img2.jpg"
+    ]
+  },
+  {
+    "title": "Carrot",
+    "category": "FROZEN",
+    "variant": "50LB",
+    "description": "Experience the rich traditions of cooking with Carrot, a highly versatile vegetables product. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Carrot/img1.jpg",
+      "product_images/Carrot/img2.jpg"
+    ]
+  },
+  {
+    "title": "Desi karela",
+    "category": "FROZEN",
+    "variant": "per cs",
+    "description": "Bring home the true essence of quality with Desi karela, perfect for both daily use and special occasions. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Desi_karela/img1.jpg",
+      "product_images/Desi_karela/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tindoora",
+    "category": "FROZEN",
+    "variant": "per",
+    "description": "Specifically selected for its premium grade, Tindoora is a must-have for a well-stocked pantry. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Tindoora/img1.jpg",
+      "product_images/Tindoora/img2.jpg"
+    ]
+  },
+  {
+    "title": "Potato",
+    "category": "FROZEN",
+    "variant": "50LB",
+    "description": "Boosting digestion and immunity, Potato is an aromatic choice for your everyday cooking needs. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Potato/img1.jpg",
+      "product_images/Potato/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cello spinach",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Superior quality Cello spinach is now available to help you create delicious and nutritious meals. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Cello_spinach/img1.jpg",
+      "product_images/Cello_spinach/img2.jpg"
+    ]
+  },
+  {
+    "title": "Green pepper",
+    "category": "FROZEN",
+    "variant": "25LB",
+    "description": "Enhance your culinary creations by adding Green pepper, preferred by professional chefs for its quality. A great choice for your regular diet.",
+    "images": [
+      "product_images/Green_pepper/img1.jpg",
+      "product_images/Green_pepper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Red pepper",
+    "category": "FROZEN",
+    "variant": "25LB",
+    "description": "Experience the rich traditions of cooking with Red pepper, a highly versatile vegetables product. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Red_pepper/img1.jpg",
+      "product_images/Red_pepper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Yellow pepper",
+    "category": "FROZEN",
+    "variant": "25LB",
+    "description": "Our vegetables collection features Yellow pepper, known for its superior texture and natural goodness. A pure and natural product.",
+    "images": [
+      "product_images/Yellow_pepper/img1.jpg",
+      "product_images/Yellow_pepper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mixed pepper",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Mixed pepper is a premium selection from our vegetables range, carefully processed to retain its natural aroma and taste. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Mixed_pepper/img1.jpg",
+      "product_images/Mixed_pepper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Peeled garlic",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Peeled garlic is a premium selection from our vegetables range, carefully processed to retain its natural aroma and taste. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Peeled_garlic/img1.jpg",
+      "product_images/Peeled_garlic/img2.jpg"
+    ]
+  },
+  {
+    "title": "Long squash",
+    "category": "FROZEN",
+    "variant": "PER LB",
+    "description": "Packed with protein and fiber, Long squash provides the essential nutrients required for a healthy lifestyle. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Long_squash/img1.jpg",
+      "product_images/Long_squash/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ridge guard",
+    "category": "FROZEN",
+    "variant": "PER LB",
+    "description": "Trusted by families for generations, Ridge guard continues to be a symbol of quality in vegetables. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Ridge_guard/img1.jpg",
+      "product_images/Ridge_guard/img2.jpg"
+    ]
+  },
+  {
+    "title": "Small chilli",
+    "category": "FROZEN",
+    "variant": "28-30LB",
+    "description": "Rich in antioxidants, Small chilli is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Small_chilli/img1.jpg",
+      "product_images/Small_chilli/img2.jpg"
+    ]
+  },
+  {
+    "title": "Medium chilli",
+    "category": "FROZEN",
+    "variant": "10LB",
+    "description": "Naturally low in fat, Medium chilli is a healthy carbohydrate source for a balanced and energetic diet. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Medium_chilli/img1.jpg",
+      "product_images/Medium_chilli/img2.jpg"
+    ]
+  },
+  {
+    "title": "Long hot",
+    "category": "FROZEN",
+    "variant": "15LB",
+    "description": "Trusted by families for generations, Long hot continues to be a symbol of quality in vegetables. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Long_hot/img1.jpg",
+      "product_images/Long_hot/img2.jpg"
+    ]
+  },
+  {
+    "title": "Finger hot",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Packed with protein and fiber, Finger hot provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Finger_hot/img1.jpg",
+      "product_images/Finger_hot/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lemon",
+    "category": "FROZEN",
+    "variant": "165CT",
+    "description": "Experience the rich traditions of cooking with Lemon, a highly versatile vegetables product. A great choice for your regular diet.",
+    "images": [
+      "product_images/Lemon/img1.jpg",
+      "product_images/Lemon/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lime",
+    "category": "FROZEN",
+    "variant": "200CT",
+    "description": "For health-conscious individuals, Lime serves as an excellent source of vital nutrients and energy. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Lime/img1.jpg",
+      "product_images/Lime/img2.jpg"
+    ]
+  },
+  {
+    "title": "Beetroot",
+    "category": "FROZEN",
+    "variant": "PER LB",
+    "description": "For health-conscious individuals, Beetroot serves as an excellent source of vital nutrients and energy. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Beetroot/img1.jpg",
+      "product_images/Beetroot/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lettuce",
+    "category": "FROZEN",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Lettuce, perfect for both daily use and special occasions. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Lettuce/img1.jpg",
+      "product_images/Lettuce/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mushroom",
+    "category": "FROZEN",
+    "variant": "10LB",
+    "description": "Mushroom is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Mushroom/img1.jpg",
+      "product_images/Mushroom/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cauliflower",
+    "category": "FROZEN",
+    "variant": "12 CT",
+    "description": "Rich in antioxidants, Cauliflower is an ideal ingredient for maintaining overall well-being and health. A pure and natural product.",
+    "images": [
+      "product_images/Cauliflower/img1.jpg",
+      "product_images/Cauliflower/img2.jpg"
+    ]
+  },
+  {
+    "title": "Milk",
+    "category": "Dairy",
+    "variant": "4  gallon",
+    "description": "A widely recognized favorite, Milk is celebrated for its purity and unadulterated nature. A pure and natural product.",
+    "images": [
+      "product_images/Milk/img1.jpg",
+      "product_images/Milk/img2.jpg"
+    ]
+  },
+  {
+    "title": "Yogurt 35lb",
+    "category": "Dairy",
+    "variant": "35lb bucket",
+    "description": "Specifically selected for its premium grade, Yogurt 35lb is a must-have for a well-stocked pantry. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Yogurt_35lb/img1.jpg",
+      "product_images/Yogurt_35lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Desi dahi whole 5lb",
+    "category": "Dairy",
+    "variant": "5lb",
+    "description": "Discover the difference with Desi dahi whole 5lb, a top-tier Dairy item for health and wellness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Desi_dahi_whole_5lb/img1.jpg",
+      "product_images/Desi_dahi_whole_5lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Heavy cream 40%",
+    "category": "Dairy",
+    "variant": "32OZ",
+    "description": "Bring home the true essence of quality with Heavy cream 40%, perfect for both daily use and special occasions. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Heavy_cream_40%/img1.jpg",
+      "product_images/Heavy_cream_40%/img2.jpg"
+    ]
+  },
+  {
+    "title": "Heavy cream 36%",
+    "category": "Dairy",
+    "variant": "32OZ",
+    "description": "Boosting digestion and immunity, Heavy cream 36% is an aromatic choice for your everyday cooking needs. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Heavy_cream_36%/img1.jpg",
+      "product_images/Heavy_cream_36%/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sour cream",
+    "category": "Dairy",
+    "variant": "32lb",
+    "description": "Trusted by families for generations, Sour cream continues to be a symbol of quality in Dairy. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Sour_cream/img1.jpg",
+      "product_images/Sour_cream/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ghee",
+    "category": "Dairy",
+    "variant": "1ltr",
+    "description": "Experience the rich traditions of cooking with Ghee, a highly versatile Dairy product. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Ghee/img1.jpg",
+      "product_images/Ghee/img2.jpg"
+    ]
+  },
+  {
+    "title": "Cow ghee",
+    "category": "Dairy",
+    "variant": "",
+    "description": "Cow ghee is a premium selection from our Dairy range, carefully processed to retain its natural aroma and taste. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Cow_ghee/img1.jpg",
+      "product_images/Cow_ghee/img2.jpg"
+    ]
+  },
+  {
+    "title": "Half and half",
+    "category": "Dairy",
+    "variant": "32OZ",
+    "description": "In the Dairy category, Half and half stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Half_and_half/img1.jpg",
+      "product_images/Half_and_half/img2.jpg"
+    ]
+  },
+  {
+    "title": "Paneer block 20lb",
+    "category": "Dairy",
+    "variant": "5LB",
+    "description": "A widely recognized favorite, Paneer block 20lb is celebrated for its purity and unadulterated nature. A great choice for your regular diet.",
+    "images": [
+      "product_images/Paneer_block_20lb/img1.jpg",
+      "product_images/Paneer_block_20lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Paneer block 40lb",
+    "category": "Dairy",
+    "variant": "5LB",
+    "description": "Paneer block 40lb is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Paneer_block_40lb/img1.jpg",
+      "product_images/Paneer_block_40lb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mozarella cheese",
+    "category": "Dairy",
+    "variant": "5LB",
+    "description": "Mozarella cheese offers an authentic flavor profile that is essential for various traditional recipes. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Mozarella_cheese/img1.jpg",
+      "product_images/Mozarella_cheese/img2.jpg"
+    ]
+  },
+  {
+    "title": "American cheese",
+    "category": "Dairy",
+    "variant": "",
+    "description": "Our Dairy collection features American cheese, known for its superior texture and natural goodness. A pure and natural product.",
+    "images": [
+      "product_images/American_cheese/img1.jpg",
+      "product_images/American_cheese/img2.jpg"
+    ]
+  },
+  {
+    "title": "Unsalted butter",
+    "category": "Dairy",
+    "variant": "1lb",
+    "description": "Naturally low in fat, Unsalted butter is a healthy carbohydrate source for a balanced and energetic diet. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Unsalted_butter/img1.jpg",
+      "product_images/Unsalted_butter/img2.jpg"
+    ]
+  },
+  {
+    "title": "Eggs",
+    "category": "Dairy",
+    "variant": "30dz",
+    "description": "Naturally low in fat, Eggs is a healthy carbohydrate source for a balanced and energetic diet. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Eggs/img1.jpg",
+      "product_images/Eggs/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tofu",
+    "category": "Dairy",
+    "variant": "per cs",
+    "description": "Trusted by families for generations, Tofu continues to be a symbol of quality in Dairy. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Tofu/img1.jpg",
+      "product_images/Tofu/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coke 12oz",
+    "category": "Drinks",
+    "variant": "35pcs",
+    "description": "Discover the difference with Coke 12oz, a top-tier Drinks item for health and wellness. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Coke_12oz/img1.jpg",
+      "product_images/Coke_12oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Coke 20oz",
+    "category": "Drinks",
+    "variant": "24/20oz",
+    "description": "Boosting digestion and immunity, Coke 20oz is an aromatic choice for your everyday cooking needs. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Coke_20oz/img1.jpg",
+      "product_images/Coke_20oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Diet coke 12oz",
+    "category": "Drinks",
+    "variant": "35pcs",
+    "description": "For health-conscious individuals, Diet coke 12oz serves as an excellent source of vital nutrients and energy. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Diet_coke_12oz/img1.jpg",
+      "product_images/Diet_coke_12oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Diet coke 20oz",
+    "category": "Drinks",
+    "variant": "24/20oz",
+    "description": "Add a touch of perfection to your dishes with Diet coke 20oz, sourced with care and delivered fresh. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Diet_coke_20oz/img1.jpg",
+      "product_images/Diet_coke_20oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Limca",
+    "category": "Drinks",
+    "variant": "300ml",
+    "description": "Packed with protein and fiber, Limca provides the essential nutrients required for a healthy lifestyle. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Limca/img1.jpg",
+      "product_images/Limca/img2.jpg"
+    ]
+  },
+  {
+    "title": "Thums up",
+    "category": "Drinks",
+    "variant": "300ml",
+    "description": "Packed with protein and fiber, Thums up provides the essential nutrients required for a healthy lifestyle. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Thums_up/img1.jpg",
+      "product_images/Thums_up/img2.jpg"
+    ]
+  },
+  {
+    "title": "Sprite 12oz",
+    "category": "Drinks",
+    "variant": "35pcs",
+    "description": "Enhance your culinary creations by adding Sprite 12oz, preferred by professional chefs for its quality. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Sprite_12oz/img1.jpg",
+      "product_images/Sprite_12oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "sprite",
+    "category": "Drinks",
+    "variant": "24/20oz",
+    "description": "In the Drinks category, sprite stands out for its unique blend of flavor and health benefits. A great choice for your regular diet.",
+    "images": [
+      "product_images/sprite/img1.jpg",
+      "product_images/sprite/img2.jpg"
+    ]
+  },
+  {
+    "title": "Pepsi",
+    "category": "Drinks",
+    "variant": "24oz cans",
+    "description": "Pepsi is a premium selection from our Drinks range, carefully processed to retain its natural aroma and taste. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Pepsi/img1.jpg",
+      "product_images/Pepsi/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fanta",
+    "category": "Drinks",
+    "variant": "300ml",
+    "description": "Add a touch of perfection to your dishes with Fanta, sourced with care and delivered fresh. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Fanta/img1.jpg",
+      "product_images/Fanta/img2.jpg"
+    ]
+  },
+  {
+    "title": "Club soda",
+    "category": "Drinks",
+    "variant": "",
+    "description": "Club soda is a premium selection from our Drinks range, carefully processed to retain its natural aroma and taste. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Club_soda/img1.jpg",
+      "product_images/Club_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ginger ale 12oz",
+    "category": "Drinks",
+    "variant": "24/12oz",
+    "description": "A widely recognized favorite, Ginger ale 12oz is celebrated for its purity and unadulterated nature. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Ginger_ale_12oz/img1.jpg",
+      "product_images/Ginger_ale_12oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Ginger ale 20oz",
+    "category": "Drinks",
+    "variant": "24/20oz",
+    "description": "Naturally low in fat, Ginger ale 20oz is a healthy carbohydrate source for a balanced and energetic diet. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Ginger_ale_20oz/img1.jpg",
+      "product_images/Ginger_ale_20oz/img2.jpg"
+    ]
+  },
+  {
+    "title": "Maaza guava",
+    "category": "Drinks",
+    "variant": "330ml",
+    "description": "Our Drinks collection features Maaza guava, known for its superior texture and natural goodness. A great choice for your regular diet.",
+    "images": [
+      "product_images/Maaza_guava/img1.jpg",
+      "product_images/Maaza_guava/img2.jpg"
+    ]
+  },
+  {
+    "title": "Maaza lytchee",
+    "category": "Drinks",
+    "variant": "330ml",
+    "description": "Maaza lytchee provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Maaza_lytchee/img1.jpg",
+      "product_images/Maaza_lytchee/img2.jpg"
+    ]
+  },
+  {
+    "title": "Maaza mango",
+    "category": "Drinks",
+    "variant": "330ml",
+    "description": "In the Drinks category, Maaza mango stands out for its unique blend of flavor and health benefits. A pure and natural product.",
+    "images": [
+      "product_images/Maaza_mango/img1.jpg",
+      "product_images/Maaza_mango/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp blueberry soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "In the Drinks category, Gulpp blueberry soda stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Gulpp_blueberry_soda/img1.jpg",
+      "product_images/Gulpp_blueberry_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp virjin mojito soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Bring home the true essence of quality with Gulpp virjin mojito soda, perfect for both daily use and special occasions. A great choice for your regular diet.",
+    "images": [
+      "product_images/Gulpp_virjin_mojito_soda/img1.jpg",
+      "product_images/Gulpp_virjin_mojito_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp fruit beer soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Boosting digestion and immunity, Gulpp fruit beer soda is an aromatic choice for your everyday cooking needs. A pure and natural product.",
+    "images": [
+      "product_images/Gulpp_fruit_beer_soda/img1.jpg",
+      "product_images/Gulpp_fruit_beer_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulp lime lemon soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "For health-conscious individuals, Gulp lime lemon soda serves as an excellent source of vital nutrients and energy. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Gulp_lime_lemon_soda/img1.jpg",
+      "product_images/Gulp_lime_lemon_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp kacha aam soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Experience the rich traditions of cooking with Gulpp kacha aam soda, a highly versatile Drinks product. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Gulpp_kacha_aam_soda/img1.jpg",
+      "product_images/Gulpp_kacha_aam_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp lemon masala soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Specifically selected for its premium grade, Gulpp lemon masala soda is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Gulpp_lemon_masala_soda/img1.jpg",
+      "product_images/Gulpp_lemon_masala_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp jeera soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Boosting digestion and immunity, Gulpp jeera soda is an aromatic choice for your everyday cooking needs. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Gulpp_jeera_soda/img1.jpg",
+      "product_images/Gulpp_jeera_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp rose paneer soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Superior quality Gulpp rose paneer soda is now available to help you create delicious and nutritious meals. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Gulpp_rose_paneer_soda/img1.jpg",
+      "product_images/Gulpp_rose_paneer_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp pine apple mango soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Superior quality Gulpp pine apple mango soda is now available to help you create delicious and nutritious meals. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Gulpp_pine_apple_mango_soda/img1.jpg",
+      "product_images/Gulpp_pine_apple_mango_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gulpp ginger lime soda",
+    "category": "Drinks",
+    "variant": "200ml",
+    "description": "Our Drinks collection features Gulpp ginger lime soda, known for its superior texture and natural goodness. A great choice for your regular diet.",
+    "images": [
+      "product_images/Gulpp_ginger_lime_soda/img1.jpg",
+      "product_images/Gulpp_ginger_lime_soda/img2.jpg"
+    ]
+  },
+  {
+    "title": "Poland spring",
+    "category": "Drinks",
+    "variant": "40pk",
+    "description": "Poland spring is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Poland_spring/img1.jpg",
+      "product_images/Poland_spring/img2.jpg"
+    ]
+  },
+  {
+    "title": "(723-b) 32oz round black container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Boosting digestion and immunity, (723-b) 32oz round black container is an aromatic choice for your everyday cooking needs. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/(723-b)_32oz_round_black_container/img1.jpg",
+      "product_images/(723-b)_32oz_round_black_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "(728-b) 24oz round black container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Discover the difference with (728-b) 24oz round black container, a top-tier Paper and Packing products item for health and wellness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/(728-b)_24oz_round_black_container/img1.jpg",
+      "product_images/(728-b)_24oz_round_black_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "(718-B) 16oz round black container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Experience the rich traditions of cooking with (718-B) 16oz round black container, a highly versatile Paper and Packing products product. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/(718-B)_16oz_round_black_container/img1.jpg",
+      "product_images/(718-B)_16oz_round_black_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "4oz cup/container",
+    "category": "SNACKS",
+    "variant": "250/case",
+    "description": "Add a touch of perfection to your dishes with 4oz cup/container, sourced with care and delivered fresh. A great choice for your regular diet.",
+    "images": [
+      "product_images/4oz_cup_container/img1.jpg",
+      "product_images/4oz_cup_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "4oz lids",
+    "category": "SNACKS",
+    "variant": "2500/case",
+    "description": "In the Paper and Packing products category, 4oz lids stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/4oz_lids/img1.jpg",
+      "product_images/4oz_lids/img2.jpg"
+    ]
+  },
+  {
+    "title": "8oz deli container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Add a touch of perfection to your dishes with 8oz deli container, sourced with care and delivered fresh. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/8oz_deli_container/img1.jpg",
+      "product_images/8oz_deli_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "12oz deli container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "In the Paper and Packing products category, 12oz deli container stands out for its unique blend of flavor and health benefits. A pure and natural product.",
+    "images": [
+      "product_images/12oz_deli_container/img1.jpg",
+      "product_images/12oz_deli_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "16oz deli container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Trusted by families for generations, 16oz deli container continues to be a symbol of quality in Paper and Packing products. A great choice for your regular diet.",
+    "images": [
+      "product_images/16oz_deli_container/img1.jpg",
+      "product_images/16oz_deli_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "24oz deli container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Discover the difference with 24oz deli container, a top-tier Paper and Packing products item for health and wellness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/24oz_deli_container/img1.jpg",
+      "product_images/24oz_deli_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "32oz deli container",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Add a touch of perfection to your dishes with 32oz deli container, sourced with care and delivered fresh. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/32oz_deli_container/img1.jpg",
+      "product_images/32oz_deli_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "Small deep",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Enhance your culinary creations by adding Small deep, preferred by professional chefs for its quality. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Small_deep/img1.jpg",
+      "product_images/Small_deep/img2.jpg"
+    ]
+  },
+  {
+    "title": "Small medium tray",
+    "category": "SNACKS",
+    "variant": "100 qty",
+    "description": "Superior quality Small medium tray is now available to help you create delicious and nutritious meals. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Small_medium_tray/img1.jpg",
+      "product_images/Small_medium_tray/img2.jpg"
+    ]
+  },
+  {
+    "title": "Small shallow",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Boosting digestion and immunity, Small shallow is an aromatic choice for your everyday cooking needs. A pure and natural product.",
+    "images": [
+      "product_images/Small_shallow/img1.jpg",
+      "product_images/Small_shallow/img2.jpg"
+    ]
+  },
+  {
+    "title": "Medium deep",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Medium deep provides a perfect balance of nutrition and taste, making it a staple for any modern kitchen. A pure and natural product.",
+    "images": [
+      "product_images/Medium_deep/img1.jpg",
+      "product_images/Medium_deep/img2.jpg"
+    ]
+  },
+  {
+    "title": "medium shallow",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "medium shallow is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/medium_shallow/img1.jpg",
+      "product_images/medium_shallow/img2.jpg"
+    ]
+  },
+  {
+    "title": "Long deep tray",
+    "category": "SNACKS",
+    "variant": "40 qty",
+    "description": "A widely recognized favorite, Long deep tray is celebrated for its purity and unadulterated nature. A great choice for your regular diet.",
+    "images": [
+      "product_images/Long_deep_tray/img1.jpg",
+      "product_images/Long_deep_tray/img2.jpg"
+    ]
+  },
+  {
+    "title": "Long medium tray",
+    "category": "SNACKS",
+    "variant": "100 qty",
+    "description": "Bring home the true essence of quality with Long medium tray, perfect for both daily use and special occasions. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Long_medium_tray/img1.jpg",
+      "product_images/Long_medium_tray/img2.jpg"
+    ]
+  },
+  {
+    "title": "Long shallow tray",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Long shallow tray, perfect for both daily use and special occasions. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Long_shallow_tray/img1.jpg",
+      "product_images/Long_shallow_tray/img2.jpg"
+    ]
+  },
+  {
+    "title": "Foam hinged container",
+    "category": "SNACKS",
+    "variant": "500 ct pack",
+    "description": "In the Paper and Packing products category, Foam hinged container stands out for its unique blend of flavor and health benefits. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Foam_hinged_container/img1.jpg",
+      "product_images/Foam_hinged_container/img2.jpg"
+    ]
+  },
+  {
+    "title": "Foam plates",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Enhance your culinary creations by adding Foam plates, preferred by professional chefs for its quality. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Foam_plates/img1.jpg",
+      "product_images/Foam_plates/img2.jpg"
+    ]
+  },
+  {
+    "title": "Plastic spoons",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Plastic spoons is a must-have for a well-stocked pantry. A pure and natural product.",
+    "images": [
+      "product_images/Plastic_spoons/img1.jpg",
+      "product_images/Plastic_spoons/img2.jpg"
+    ]
+  },
+  {
+    "title": "Plastic forks",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Naturally low in fat, Plastic forks is a healthy carbohydrate source for a balanced and energetic diet. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Plastic_forks/img1.jpg",
+      "product_images/Plastic_forks/img2.jpg"
+    ]
+  },
+  {
+    "title": "Aluminium foil",
+    "category": "SNACKS",
+    "variant": "500",
+    "description": "Bring home the true essence of quality with Aluminium foil, perfect for both daily use and special occasions. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Aluminium_foil/img1.jpg",
+      "product_images/Aluminium_foil/img2.jpg"
+    ]
+  },
+  {
+    "title": "Food service film",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Add a touch of perfection to your dishes with Food service film, sourced with care and delivered fresh. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Food_service_film/img1.jpg",
+      "product_images/Food_service_film/img2.jpg"
+    ]
+  },
+  {
+    "title": "Plastic wrap",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Superior quality Plastic wrap is now available to help you create delicious and nutritious meals. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Plastic_wrap/img1.jpg",
+      "product_images/Plastic_wrap/img2.jpg"
+    ]
+  },
+  {
+    "title": "Thankyou bags",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Trusted by families for generations, Thankyou bags continues to be a symbol of quality in Paper and Packing products. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Thankyou_bags/img1.jpg",
+      "product_images/Thankyou_bags/img2.jpg"
+    ]
+  },
+  {
+    "title": "Brown bags small",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Brown bags small is a must-have for a well-stocked pantry. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Brown_bags_small/img1.jpg",
+      "product_images/Brown_bags_small/img2.jpg"
+    ]
+  },
+  {
+    "title": "Brown bags medium",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Brown bags medium offers an authentic flavor profile that is essential for various traditional recipes. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Brown_bags_medium/img1.jpg",
+      "product_images/Brown_bags_medium/img2.jpg"
+    ]
+  },
+  {
+    "title": "Brown bags large",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "A widely recognized favorite, Brown bags large is celebrated for its purity and unadulterated nature. A great choice for your regular diet.",
+    "images": [
+      "product_images/Brown_bags_large/img1.jpg",
+      "product_images/Brown_bags_large/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lassi bottles",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Experience the rich traditions of cooking with Lassi bottles, a highly versatile Paper and Packing products product. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Lassi_bottles/img1.jpg",
+      "product_images/Lassi_bottles/img2.jpg"
+    ]
+  },
+  {
+    "title": "Garbage bags",
+    "category": "SNACKS",
+    "variant": "48",
+    "description": "Garbage bags offers an authentic flavor profile that is essential for various traditional recipes. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Garbage_bags/img1.jpg",
+      "product_images/Garbage_bags/img2.jpg"
+    ]
+  },
+  {
+    "title": "Splash dishwashing liquid",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Our Paper and Packing products collection features Splash dishwashing liquid, known for its superior texture and natural goodness. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Splash_dishwashing_liquid/img1.jpg",
+      "product_images/Splash_dishwashing_liquid/img2.jpg"
+    ]
+  },
+  {
+    "title": "Pink soap bucket",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Pink soap bucket, perfect for both daily use and special occasions. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Pink_soap_bucket/img1.jpg",
+      "product_images/Pink_soap_bucket/img2.jpg"
+    ]
+  },
+  {
+    "title": "Gloves",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "For health-conscious individuals, Gloves serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Gloves/img1.jpg",
+      "product_images/Gloves/img2.jpg"
+    ]
+  },
+  {
+    "title": "Appron",
+    "category": "SNACKS",
+    "variant": "46 poly",
+    "description": "Add a touch of perfection to your dishes with Appron, sourced with care and delivered fresh. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Appron/img1.jpg",
+      "product_images/Appron/img2.jpg"
+    ]
+  },
+  {
+    "title": "Bleach",
+    "category": "SNACKS",
+    "variant": "96oz",
+    "description": "Bleach is a premium selection from our Paper and Packing products range, carefully processed to retain its natural aroma and taste. A great choice for your regular diet.",
+    "images": [
+      "product_images/Bleach/img1.jpg",
+      "product_images/Bleach/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mop head",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Mop head is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Mop_head/img1.jpg",
+      "product_images/Mop_head/img2.jpg"
+    ]
+  },
+  {
+    "title": "Mop stick",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "For health-conscious individuals, Mop stick serves as an excellent source of vital nutrients and energy. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Mop_stick/img1.jpg",
+      "product_images/Mop_stick/img2.jpg"
+    ]
+  },
+  {
+    "title": "Multifold napkins",
+    "category": "SNACKS",
+    "variant": "4000/cs",
+    "description": "Our Paper and Packing products collection features Multifold napkins, known for its superior texture and natural goodness. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Multifold_napkins/img1.jpg",
+      "product_images/Multifold_napkins/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dinner napkins",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "For health-conscious individuals, Dinner napkins serves as an excellent source of vital nutrients and energy. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Dinner_napkins/img1.jpg",
+      "product_images/Dinner_napkins/img2.jpg"
+    ]
+  },
+  {
+    "title": "Toilet paper",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Bring home the true essence of quality with Toilet paper, perfect for both daily use and special occasions. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Toilet_paper/img1.jpg",
+      "product_images/Toilet_paper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Hand towels",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Trusted by families for generations, Hand towels continues to be a symbol of quality in Paper and Packing products. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Hand_towels/img1.jpg",
+      "product_images/Hand_towels/img2.jpg"
+    ]
+  },
+  {
+    "title": "Dishwashing scrub",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Rich in antioxidants, Dishwashing scrub is an ideal ingredient for maintaining overall well-being and health. A great choice for your regular diet.",
+    "images": [
+      "product_images/Dishwashing_scrub/img1.jpg",
+      "product_images/Dishwashing_scrub/img2.jpg"
+    ]
+  },
+  {
+    "title": "Spounge",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Boosting digestion and immunity, Spounge is an aromatic choice for your everyday cooking needs. A great choice for your regular diet.",
+    "images": [
+      "product_images/Spounge/img1.jpg",
+      "product_images/Spounge/img2.jpg"
+    ]
+  },
+  {
+    "title": "Oven cleaner",
+    "category": "SNACKS",
+    "variant": "1 gal",
+    "description": "Oven cleaner is a premium selection from our Paper and Packing products range, carefully processed to retain its natural aroma and taste. A great choice for your regular diet.",
+    "images": [
+      "product_images/Oven_cleaner/img1.jpg",
+      "product_images/Oven_cleaner/img2.jpg"
+    ]
+  },
+  {
+    "title": "Floor cleaner",
+    "category": "SNACKS",
+    "variant": "1 gal",
+    "description": "Specifically selected for its premium grade, Floor cleaner is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Floor_cleaner/img1.jpg",
+      "product_images/Floor_cleaner/img2.jpg"
+    ]
+  },
+  {
+    "title": "Pinesol",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Our Paper and Packing products collection features Pinesol, known for its superior texture and natural goodness. A great choice for your regular diet.",
+    "images": [
+      "product_images/Pinesol/img1.jpg",
+      "product_images/Pinesol/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fablosoue",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Packed with protein and fiber, Fablosoue provides the essential nutrients required for a healthy lifestyle. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Fablosoue/img1.jpg",
+      "product_images/Fablosoue/img2.jpg"
+    ]
+  },
+  {
+    "title": "Wax paper",
+    "category": "SNACKS",
+    "variant": "",
+    "description": "Superior quality Wax paper is now available to help you create delicious and nutritious meals. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Wax_paper/img1.jpg",
+      "product_images/Wax_paper/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken thigh",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "Chicken thigh offers an authentic flavor profile that is essential for various traditional recipes. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Chicken_thigh/img1.jpg",
+      "product_images/Chicken_thigh/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken breast",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "Specifically selected for its premium grade, Chicken breast is a must-have for a well-stocked pantry. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Chicken_breast/img1.jpg",
+      "product_images/Chicken_breast/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken tenders",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "Superior quality Chicken tenders is now available to help you create delicious and nutritious meals. A pure and natural product.",
+    "images": [
+      "product_images/Chicken_tenders/img1.jpg",
+      "product_images/Chicken_tenders/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken drumstick",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "For health-conscious individuals, Chicken drumstick serves as an excellent source of vital nutrients and energy. A great choice for your regular diet.",
+    "images": [
+      "product_images/Chicken_drumstick/img1.jpg",
+      "product_images/Chicken_drumstick/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken wings",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "Discover the difference with Chicken wings, a top-tier Meat item for health and wellness. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Chicken_wings/img1.jpg",
+      "product_images/Chicken_wings/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken leg quarters",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "Packed with protein and fiber, Chicken leg quarters provides the essential nutrients required for a healthy lifestyle. A pure and natural product.",
+    "images": [
+      "product_images/Chicken_leg_quarters/img1.jpg",
+      "product_images/Chicken_leg_quarters/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chicken kheema",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Discover the difference with Chicken kheema, a top-tier Meat item for health and wellness. A versatile addition to your shopping list.",
+    "images": [
+      "product_images/Chicken_kheema/img1.jpg",
+      "product_images/Chicken_kheema/img2.jpg"
+    ]
+  },
+  {
+    "title": "Whole chicken",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "In the Meat category, Whole chicken stands out for its unique blend of flavor and health benefits. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Whole_chicken/img1.jpg",
+      "product_images/Whole_chicken/img2.jpg"
+    ]
+  },
+  {
+    "title": "Fresh baby goat",
+    "category": "Meat",
+    "variant": "perlb",
+    "description": "Discover the difference with Fresh baby goat, a top-tier Meat item for health and wellness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Fresh_baby_goat/img1.jpg",
+      "product_images/Fresh_baby_goat/img2.jpg"
+    ]
+  },
+  {
+    "title": "Regular goat",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Regular goat is sourced from the finest ingredients to ensure consistent quality and maximum shelf life. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Regular_goat/img1.jpg",
+      "product_images/Regular_goat/img2.jpg"
+    ]
+  },
+  {
+    "title": "Goat kheema",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Add a touch of perfection to your dishes with Goat kheema, sourced with care and delivered fresh. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Goat_kheema/img1.jpg",
+      "product_images/Goat_kheema/img2.jpg"
+    ]
+  },
+  {
+    "title": "Paya",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Rich in antioxidants, Paya is an ideal ingredient for maintaining overall well-being and health. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Paya/img1.jpg",
+      "product_images/Paya/img2.jpg"
+    ]
+  },
+  {
+    "title": "Boneless lamb",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Experience the rich traditions of cooking with Boneless lamb, a highly versatile Meat product. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Boneless_lamb/img1.jpg",
+      "product_images/Boneless_lamb/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lamb chops",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Rich in antioxidants, Lamb chops is an ideal ingredient for maintaining overall well-being and health. A great choice for your regular diet.",
+    "images": [
+      "product_images/Lamb_chops/img1.jpg",
+      "product_images/Lamb_chops/img2.jpg"
+    ]
+  },
+  {
+    "title": "Lamb shank",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Experience the rich traditions of cooking with Lamb shank, a highly versatile Meat product. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Lamb_shank/img1.jpg",
+      "product_images/Lamb_shank/img2.jpg"
+    ]
+  },
+  {
+    "title": "Boti",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Enhance your culinary creations by adding Boti, preferred by professional chefs for its quality. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Boti/img1.jpg",
+      "product_images/Boti/img2.jpg"
+    ]
+  },
+  {
+    "title": "Chinese cut/ 65 cut",
+    "category": "Meat",
+    "variant": "per lb",
+    "description": "Experience the rich traditions of cooking with Chinese cut/ 65 cut, a highly versatile Meat product. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Chinese_cut_65_cut/img1.jpg",
+      "product_images/Chinese_cut_65_cut/img2.jpg"
+    ]
+  },
+  {
+    "title": "Silver pampano",
+    "category": "Meat",
+    "variant": "40lb per case",
+    "description": "A widely recognized favorite, Silver pampano is celebrated for its purity and unadulterated nature. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Silver_pampano/img1.jpg",
+      "product_images/Silver_pampano/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tilapia 5/7",
+    "category": "Meat",
+    "variant": "10lb",
+    "description": "Our Meat collection features Tilapia 5/7, known for its superior texture and natural goodness. Highly recommended for gourmet preparations.",
+    "images": [
+      "product_images/Tilapia_5_7/img1.jpg",
+      "product_images/Tilapia_5_7/img2.jpg"
+    ]
+  },
+  {
+    "title": "Tilapia 7/9",
+    "category": "Meat",
+    "variant": "10lb",
+    "description": "Trusted by families for generations, Tilapia 7/9 continues to be a symbol of quality in Meat. Ideal for health and flavor together.",
+    "images": [
+      "product_images/Tilapia_7_9/img1.jpg",
+      "product_images/Tilapia_7_9/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 8/12",
+    "category": "Meat",
+    "variant": "10lb",
+    "description": "In the Meat category, Shrimp 8/12 stands out for its unique blend of flavor and health benefits. Enjoy the consistent taste in every use.",
+    "images": [
+      "product_images/Shrimp_8_12/img1.jpg",
+      "product_images/Shrimp_8_12/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 16/20",
+    "category": "Meat",
+    "variant": "10lb",
+    "description": "A widely recognized favorite, Shrimp 16/20 is celebrated for its purity and unadulterated nature. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Shrimp_16_20/img1.jpg",
+      "product_images/Shrimp_16_20/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 26/30",
+    "category": "Meat",
+    "variant": "10lb",
+    "description": "Shrimp 26/30 is a premium selection from our Meat range, carefully processed to retain its natural aroma and taste. It is suitable for a wide variety of cuisines.",
+    "images": [
+      "product_images/Shrimp_26_30/img1.jpg",
+      "product_images/Shrimp_26_30/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 21/25",
+    "category": "Meat",
+    "variant": "",
+    "description": "Specifically selected for its premium grade, Shrimp 21/25 is a must-have for a well-stocked pantry. A great choice for your regular diet.",
+    "images": [
+      "product_images/Shrimp_21_25/img1.jpg",
+      "product_images/Shrimp_21_25/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 41/50",
+    "category": "Meat",
+    "variant": "30lb per case",
+    "description": "Our Meat collection features Shrimp 41/50, known for its superior texture and natural goodness. Guaranteed to enhance any recipe.",
+    "images": [
+      "product_images/Shrimp_41_50/img1.jpg",
+      "product_images/Shrimp_41_50/img2.jpg"
+    ]
+  },
+  {
+    "title": "Shrimp 51/60",
+    "category": "Meat",
+    "variant": "30lb per case",
+    "description": "In the Meat category, Shrimp 51/60 stands out for its unique blend of flavor and health benefits. A pure and natural product.",
+    "images": [
+      "product_images/Shrimp_51_60/img1.jpg",
+      "product_images/Shrimp_51_60/img2.jpg"
+    ]
+  },
+  {
+    "title": "Salmon fillets",
+    "category": "Meat",
+    "variant": "22.5lb",
+    "description": "For health-conscious individuals, Salmon fillets serves as an excellent source of vital nutrients and energy. Sourced sustainably for highest quality.",
+    "images": [
+      "product_images/Salmon_fillets/img1.jpg",
+      "product_images/Salmon_fillets/img2.jpg"
+    ]
+  },
+  {
+    "title": "Basa/Swai fillet",
+    "category": "Meat",
+    "variant": "15 lb",
+    "description": "Naturally low in fat, Basa/Swai fillet is a healthy carbohydrate source for a balanced and energetic diet. Packed in hygienic conditions.",
+    "images": [
+      "product_images/Basa_Swai_fillet/img1.jpg",
+      "product_images/Basa_Swai_fillet/img2.jpg"
+    ]
+  }
+]

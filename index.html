@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="SVM FOODS LLC – Premium Indian Grocery Distribution. Quality spices, rice, lentils, and more. Serving New Jersey and beyond." />
+  <meta name="keywords" content="Indian grocery, spices, rice, dals, SVM Foods, NJ grocery distributor, MDH, Shan spices" />
+  <meta property="og:title" content="SVM FOODS LLC – Premium Indian Grocery Catalog" />
+  <meta property="og:description" content="Quality products. Trusted sourcing. Browse our full catalog of Indian groceries." />
+  <title>SVM FOODS LLC – Premium Indian Grocery Catalog</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== LOADING SCREEN ===== -->
+  <div id="loading-screen" class="loading-screen">
+    <div class="loader-wrap">
+      <div class="loader-logo">
+        <img src="SVM_logo.png" alt="SVM FOODS" id="loader-img" onerror="this.style.display='none';document.getElementById('loader-text').style.display='block'" />
+        <span id="loader-text" style="display:none;font-size:2rem;font-weight:800;color:#c8a951;">SVM FOODS</span>
+      </div>
+      <div class="loader-bar"><div class="loader-fill"></div></div>
+    </div>
+  </div>
+
+  <!-- ===== NAVBAR ===== -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="#home" class="nav-logo">
+        <img src="SVM_logo.png" alt="SVM FOODS LLC" onerror="this.outerHTML='<span class=\'logo-text\'>SVM<span>FOODS</span></span>'" />
+      </a>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#home" class="nav-link active" id="nav-home">Home</a></li>
+        <li><a href="#categories" class="nav-link" id="nav-categories">Categories</a></li>
+        <li><a href="#products" class="nav-link" id="nav-products">Products</a></li>
+        <li><a href="#about" class="nav-link" id="nav-about">About</a></li>
+        <li><a href="#contact" class="nav-link" id="nav-contact">Contact</a></li>
+      </ul>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ===== HERO SLIDESHOW ===== -->
+  <section class="hero-slideshow" id="home">
+
+    <!-- Slide 1: Brand Intro (uses real generated image) -->
+    <div class="hero-slide active" id="hslide-0">
+      <div class="hslide-bg" style="background-image:url('images/hero/banner1.png')"></div>
+      <div class="hslide-overlay"></div>
+      <div class="hslide-content">
+        <div class="hslide-tag">🌿 Trusted Indian Grocery Distributor</div>
+        <h1 class="hslide-title">Premium Indian<br /><span class="hslide-highlight">Grocery Distribution</span></h1>
+        <p class="hslide-sub">Quality products. Trusted sourcing.<br />Serving restaurants &amp; stores across New Jersey.</p>
+        <div class="hslide-actions">
+          <a href="#products" class="btn btn-primary" id="hero-view-products">Browse Catalog →</a>
+          <a href="#contact" class="btn btn-outline" id="hero-contact">Get In Touch</a>
+        </div>
+        <div class="hero-stats">
+          <div class="stat-item"><span class="stat-num" id="stat-products">400+</span><span class="stat-label">Products</span></div>
+          <div class="stat-divider"></div>
+          <div class="stat-item"><span class="stat-num">16</span><span class="stat-label">Categories</span></div>
+          <div class="stat-divider"></div>
+          <div class="stat-item"><span class="stat-num">100%</span><span class="stat-label">Quality Assured</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 2: Explore Categories -->
+    <div class="hero-slide" id="hslide-1">
+      <div class="hslide-bg hslide-bg-2"></div>
+      <div class="hslide-overlay"></div>
+      <div class="hslide-content">
+        <div class="hslide-tag">📦 16+ Categories</div>
+        <h1 class="hslide-title">Explore Our<br /><span class="hslide-highlight">Product Categories</span></h1>
+        <p class="hslide-sub">From fragrant basmati rice to premium spices, canned goods, dairy, frozen foods and more — all under one roof.</p>
+        <div class="hslide-actions">
+          <a href="#categories" class="btn btn-primary">Explore Categories →</a>
+        </div>
+        <div class="hslide-icons">
+          <span>🍚</span><span>🌶️</span><span>🫘</span><span>🌾</span><span>❄️</span><span>🫒</span><span>🥜</span><span>🍵</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 3: Trusted Brands -->
+    <div class="hero-slide" id="hslide-2">
+      <div class="hslide-bg hslide-bg-3"></div>
+      <div class="hslide-overlay"></div>
+      <div class="hslide-content">
+        <div class="hslide-tag">⭐ Trusted Brands</div>
+        <h1 class="hslide-title">Top Brands.<br /><span class="hslide-highlight">Real Quality.</span></h1>
+        <p class="hslide-sub">We stock India's most trusted brands — MDH, Shan, Zeeba, and dozens more. Authentic products, authentically sourced.</p>
+        <div class="hslide-actions">
+          <a href="#products" class="btn btn-primary">Browse Products →</a>
+          <a href="#contact" class="btn btn-outline">Enquire Now</a>
+        </div>
+        <div class="hslide-brand-pills">
+          <span class="brand-pill">MDH Spices</span>
+          <span class="brand-pill">Shan Masala</span>
+          <span class="brand-pill">Zeeba Rice</span>
+          <span class="brand-pill">Swad</span>
+          <span class="brand-pill">Deep</span>
+          <span class="brand-pill">Laxmi</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slide 4: Distribution / Who We Are -->
+    <div class="hero-slide" id="hslide-3">
+      <div class="hslide-bg hslide-bg-4"></div>
+      <div class="hslide-overlay"></div>
+      <div class="hslide-content">
+        <div class="hslide-tag">🚚 Wholesale Distributor · NJ</div>
+        <h1 class="hslide-title">Serving NJ<br /><span class="hslide-highlight">Restaurants & Stores</span></h1>
+        <p class="hslide-sub">Based in Kendall Park, NJ — we supply restaurants, caterers and retail stores with premium Indian groceries at competitive prices.</p>
+        <div class="hslide-actions">
+          <a href="#contact" class="btn btn-primary">Contact Us Today →</a>
+          <a href="https://wa.me/9722159349" class="btn btn-wa" target="_blank" rel="noopener">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            WhatsApp Us
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slideshow Controls -->
+    <button class="hero-arrow hero-prev" id="hero-prev" aria-label="Previous slide">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+    </button>
+    <button class="hero-arrow hero-next" id="hero-next" aria-label="Next slide">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+    </button>
+
+    <!-- Dot Indicators -->
+    <div class="hero-dots" id="hero-dots">
+      <button class="hero-dot active" data-slide="0" aria-label="Slide 1"></button>
+      <button class="hero-dot" data-slide="1" aria-label="Slide 2"></button>
+      <button class="hero-dot" data-slide="2" aria-label="Slide 3"></button>
+      <button class="hero-dot" data-slide="3" aria-label="Slide 4"></button>
+    </div>
+
+    <!-- Progress bar -->
+    <div class="hero-progress"><div class="hero-progress-fill" id="hero-progress-fill"></div></div>
+
+  </section>
+
+  <!-- ===== CATEGORIES SECTION ===== -->
+  <section class="categories-section" id="categories">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Our Range</span>
+        <h2 class="section-title">Product Categories</h2>
+        <p class="section-desc">Explore our wide selection of authentic Indian grocery products, sourced from trusted suppliers worldwide.</p>
+      </div>
+      <div class="categories-grid" id="categories-grid">
+        <!-- Generated by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PRODUCTS SECTION ===== -->
+  <section class="products-section" id="products">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Full Catalog</span>
+        <h2 class="section-title">Our Products</h2>
+        <p class="section-desc">Browse our complete range of premium Indian groceries. Click on any product to learn more.</p>
+      </div>
+
+      <!-- Search & Filter -->
+      <div class="products-controls">
+        <div class="search-wrap">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="search-input" class="search-input" placeholder="Search products…" autocomplete="off" />
+          <button class="search-clear" id="search-clear" aria-label="Clear search">✕</button>
+        </div>
+      </div>
+
+      <div class="filter-wrap">
+        <div class="filter-scroll">
+          <button class="filter-btn active" data-cat="ALL" id="filter-all">All</button>
+          <!-- More buttons added by JS -->
+        </div>
+      </div>
+
+      <!-- Results info -->
+      <div class="results-info" id="results-info"></div>
+
+      <!-- Product Grid -->
+      <div class="products-grid" id="products-grid">
+        <!-- Filled by JS -->
+      </div>
+
+      <!-- No results -->
+      <div class="no-results" id="no-results" style="display:none;">
+        <div class="no-results-icon">🔍</div>
+        <h3>No products found</h3>
+        <p>Try a different search term or category.</p>
+        <button class="btn btn-primary" id="reset-filters">Reset Filters</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT SECTION ===== -->
+  <section class="about-section" id="about">
+    <div class="container">
+      <div class="about-grid">
+        <div class="about-content">
+          <span class="section-tag">Who We Are</span>
+          <h2 class="section-title" style="text-align:left;margin-bottom:1.2rem;">About SVM FOODS LLC</h2>
+          <p class="about-text">SVM FOODS LLC is a trusted wholesale distributor of premium Indian grocery products based in Kendall Park, New Jersey. We serve restaurants, caterers, and retail stores with a comprehensive range of authentic Indian spices, rice, dals, flours, frozen foods, and more.</p>
+          <p class="about-text">Our commitment is simple — <strong>quality you can taste, reliability you can count on.</strong> Every product in our catalog is carefully sourced from reputable suppliers to ensure freshness, authenticity, and consistent quality.</p>
+          <div class="about-features">
+            <div class="feature-item">
+              <div class="feature-icon">🌾</div>
+              <div>
+                <h4>Premium Sourcing</h4>
+                <p>Handpicked from trusted suppliers across India and beyond</p>
+              </div>
+            </div>
+            <div class="feature-item">
+              <div class="feature-icon">🚚</div>
+              <div>
+                <h4>Reliable Distribution</h4>
+                <p>Serving New Jersey restaurants, stores, and caterers</p>
+              </div>
+            </div>
+            <div class="feature-item">
+              <div class="feature-icon">✅</div>
+              <div>
+                <h4>Quality Assured</h4>
+                <p>Every product meets our strict freshness and quality standards</p>
+              </div>
+            </div>
+          </div>
+          <a href="#contact" class="btn btn-primary" id="about-contact-btn">Contact Us</a>
+        </div>
+        <div class="about-visual">
+          <div class="about-image-wrap">
+            <img src="SVM_logo.png" alt="SVM FOODS LLC" class="about-logo" onerror="this.style.display='none'" />
+            <div class="about-badge-1">🌿 Est. NJ</div>
+            <div class="about-badge-2">400+ Products</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== CONTACT SECTION ===== -->
+  <section class="contact-section" id="contact">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Get In Touch</span>
+        <h2 class="section-title">Contact Us</h2>
+        <p class="section-desc">Interested in our products? Reach out for orders, pricing, or general enquiries.</p>
+      </div>
+      <div class="contact-grid">
+        <!-- Contact Info -->
+        <div class="contact-info">
+          <div class="contact-card">
+            <div class="contact-item">
+              <div class="contact-icon">📍</div>
+              <div>
+                <h4>Address</h4>
+                <p>3550 RT 27 Janatha Bazaar<br />Kendall Park, NJ 08824</p>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-icon">📞</div>
+              <div>
+                <h4>Phone</h4>
+                <a href="tel:+9722159349">+972 215 9349</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-icon">✉️</div>
+              <div>
+                <h4>Email</h4>
+                <a href="mailto:svmfoodsllc@gmail.com">svmfoodsllc@gmail.com</a>
+              </div>
+            </div>
+            <div class="contact-item">
+              <div class="contact-icon">🕐</div>
+              <div>
+                <h4>Business Hours</h4>
+                <p>Mon – Sat: 9:00 AM – 6:00 PM<br />Sunday: By Appointment</p>
+              </div>
+            </div>
+          </div>
+          <!-- Map -->
+          <div class="map-wrap">
+            <iframe
+              id="google-map"
+              title="SVM FOODS LLC Location"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.3!2d-74.5636!3d40.4368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3c52b44e80001%3A0x1!2s3550+Route+27%2C+Kendall+Park%2C+NJ+08824!5e0!3m2!1sen!2sus!4v1679000000000!5m2!1sen!2sus"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </div>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="contact-form-wrap">
+          <form class="contact-form" id="contact-form" novalidate>
+            <h3>Send an Enquiry</h3>
+            <p class="form-note">We'll get back to you within 24 hours.</p>
+            <div class="form-group">
+              <label for="form-name">Your Name</label>
+              <input type="text" id="form-name" placeholder="e.g. John Smith" required />
+            </div>
+            <div class="form-group">
+              <label for="form-email">Email Address</label>
+              <input type="email" id="form-email" placeholder="your@email.com" required />
+            </div>
+            <div class="form-group">
+              <label for="form-phone">Phone (optional)</label>
+              <input type="tel" id="form-phone" placeholder="+1 000 000 0000" />
+            </div>
+            <div class="form-group">
+              <label for="form-subject">Subject</label>
+              <select id="form-subject">
+                <option value="">Select a subject…</option>
+                <option value="order">Product Order Enquiry</option>
+                <option value="pricing">Pricing & Bulk Order</option>
+                <option value="catalog">Full Catalog Request</option>
+                <option value="other">General Enquiry</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label for="form-message">Message</label>
+              <textarea id="form-message" rows="5" placeholder="Tell us what you're looking for…" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary btn-full" id="form-submit">
+              <span>Send Message</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 2L11 13"/><path d="M22 2L15 22 11 13 2 9l20-7z"/></svg>
+            </button>
+            <div class="form-success" id="form-success" style="display:none;">
+              ✅ Your message has been sent! We'll be in touch soon.
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="SVM_logo.png" alt="SVM FOODS LLC" class="footer-logo" onerror="this.outerHTML='<span class=\'footer-logo-text\'>SVM FOODS LLC</span>'" />
+          <p>Premium Indian Grocery Distribution.<br />Serving New Jersey since inception.</p>
+          <div class="footer-social">
+            <a href="https://wa.me/9722159349" class="social-wa" target="_blank" rel="noopener" aria-label="WhatsApp">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            </a>
+            <a href="mailto:svmfoodsllc@gmail.com" class="social-email" aria-label="Email">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            </a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#categories">Categories</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Categories</h4>
+          <ul id="footer-cats">
+            <li><a href="#products" data-filtercat="RICE">Rice</a></li>
+            <li><a href="#products" data-filtercat="SPICES">Spices</a></li>
+            <li><a href="#products" data-filtercat="DALS &amp; BEANS">Dals &amp; Beans</a></li>
+            <li><a href="#products" data-filtercat="FLOURS">Flours</a></li>
+            <li><a href="#products" data-filtercat="FROZEN">Frozen</a></li>
+            <li><a href="#products" data-filtercat="SNACKS">Snacks</a></li>
+          </ul>
+        </div>
+        <div class="footer-contact">
+          <h4>Contact</h4>
+          <p>📍 3550 RT 27 Janatha Bazaar,<br />Kendall Park, NJ 08824</p>
+          <p>📞 <a href="tel:+9722159349">+972 215 9349</a></p>
+          <p>✉️ <a href="mailto:svmfoodsllc@gmail.com">svmfoodsllc@gmail.com</a></p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 SVM FOODS LLC. All rights reserved. | Premium Indian Grocery Distribution, NJ</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== FLOATING BUTTONS ===== -->
+  <a href="https://wa.me/9722159349" class="whatsapp-float" id="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+    <span class="wa-tooltip">Chat on WhatsApp</span>
+  </a>
+
+  <button class="back-to-top" id="back-to-top" aria-label="Back to top">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
+  <!-- ===== PRODUCT MODAL ===== -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-box">
+
+      <!-- Close -->
+      <button class="modal-close" id="modal-close" aria-label="Close modal">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+
+      <!-- Image Slider -->
+      <div class="modal-slider-wrap">
+        <div class="slider-viewport">
+          <div class="slider-track" id="slider-track"></div>
+        </div>
+        <!-- Navigation arrows -->
+        <button class="slider-arrow slider-prev" id="slider-prev" aria-label="Previous image">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"/></svg>
+        </button>
+        <button class="slider-arrow slider-next" id="slider-next" aria-label="Next image">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+        <!-- Dot indicators -->
+        <div class="slider-dots" id="slider-dots"></div>
+      </div>
+
+      <!-- Product Info -->
+      <div class="modal-info">
+        <div class="modal-info-header">
+          <div class="modal-cat-badge" id="modal-cat-badge"></div>
+          <div class="modal-variant" id="modal-variant"></div>
+        </div>
+        <h2 class="modal-title" id="modal-title"></h2>
+        <p class="modal-desc" id="modal-desc"></p>
+        <div class="modal-actions">
+          <a href="#contact" class="btn btn-primary" id="modal-cta" onclick="closeModal()">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 014.5 10.81 19.79 19.79 0 011.5 2.18 2 2 0 013.5 0h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L7.91 7.91a16 16 0 006.29 6.29l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
+            Contact for Order
+          </a>
+          <a href="https://wa.me/9722159349" class="btn btn-wa" target="_blank" rel="noopener">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            WhatsApp Us
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
