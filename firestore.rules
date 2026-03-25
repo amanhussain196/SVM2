@@ -1,0 +1,25 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ─── PRODUCTS collection ───────────────────────────
+    match /products/{productId} {
+      // Anyone can read products (public catalog)
+      allow read: if true;
+
+      // Only authenticated users can write
+      allow create, update, delete: if request.auth != null;
+    }
+
+    // ─── CATEGORIES collection ─────────────────────────
+    match /categories/{categoryId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+
+    // ─── Deny everything else ──────────────────────────
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
