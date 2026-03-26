@@ -1318,8 +1318,8 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
   .hero-title { font-size: 2rem; }
   .hero-actions { flex-direction: column; }
   .btn { width: 100%; justify-content: center; }
-  .products-grid { grid-template-columns: 1fr 1fr; }
-  .categories-grid { grid-template-columns: repeat(3,1fr); }
+  .products-grid { grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+  .categories-grid { grid-template-columns: 1fr 1fr; gap: 0.8rem; }
   .modal-slider-wrap { height: 200px; }
   .modal-info { padding: 1.2rem 1.2rem 1.6rem; }
   .modal-title { font-size: 1.2rem; }
@@ -1329,8 +1329,8 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
 }
 
 @media (max-width: 360px) {
-  .products-grid { grid-template-columns: 1fr; }
-  .categories-grid { grid-template-columns: repeat(2,1fr); }
+  .products-grid { grid-template-columns: 1fr 1fr; }
+  .categories-grid { grid-template-columns: 1fr 1fr; }
 }
 
 /* ── LEGAL PAGE HEADER ── */
