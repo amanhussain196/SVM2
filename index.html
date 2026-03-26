@@ -17,6 +17,9 @@
 
   <!-- ===== LOADING SCREEN ===== -->
   <div id="loading-screen" class="loading-screen">
+    <div class="loader-bg">
+      <span></span><span></span><span></span>
+    </div>
     <div class="loader-wrap">
       <div class="loader-logo">
         <img src="SVM_logo.png" alt="SVM FOODS" id="loader-img" onerror="this.style.display='none';document.getElementById('loader-text').style.display='block'" />
@@ -190,7 +193,7 @@
 
       <div class="filter-wrap">
         <div class="filter-scroll">
-          <button class="filter-btn active" data-cat="ALL" id="filter-all">All</button>
+          <button class="filter-btn" data-cat="ALL" id="filter-all">All</button>
           <!-- More buttons added by JS -->
         </div>
       </div>
@@ -336,13 +339,7 @@
             </div>
             <div class="form-group">
               <label for="form-subject">Subject</label>
-              <select id="form-subject">
-                <option value="">Select a subject…</option>
-                <option value="order">Product Order Enquiry</option>
-                <option value="pricing">Pricing & Bulk Order</option>
-                <option value="catalog">Full Catalog Request</option>
-                <option value="other">General Enquiry</option>
-              </select>
+              <input type="text" id="form-subject" placeholder="What is this regarding?" required />
             </div>
             <div class="form-group">
               <label for="form-message">Message</label>
@@ -398,6 +395,14 @@
             <li><a href="#products" data-filtercat="SNACKS">Snacks</a></li>
           </ul>
         </div>
+        <div class="footer-links">
+          <h4>Legal</h4>
+          <ul>
+            <li><a href="policies.html#terms">Terms & Conditions</a></li>
+            <li><a href="policies.html#privacy">Privacy Policy</a></li>
+            <li><a href="policies.html#shipping">Shipping & Returns</a></li>
+          </ul>
+        </div>
         <div class="footer-contact">
           <h4>Contact</h4>
           <p>📍 3550 RT 27 Janatha Bazaar,<br />Kendall Park, NJ 08824</p>
@@ -406,7 +411,14 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>&copy; 2024 SVM FOODS LLC. All rights reserved. | Premium Indian Grocery Distribution, NJ</p>
+        <p>&copy; 2026 SVM FOODS LLC. All rights reserved. | Premium Indian Grocery Distribution, NJ</p>
+        <div class="designer-credit">
+          <span>Designed by</span>
+          <a href="https://vistaratechglobal.com" target="_blank" rel="noopener">
+            <img src="https://vistaratechglobal.com/WWW.VISTARATECHGLOBAL.COM-removebg-preview.png" alt="Vistara Tech Global" class="designer-logo" />
+            vistaratechglobal.com
+          </a>
+        </div>
       </div>
     </div>
   </footer>
@@ -455,7 +467,7 @@
         <h2 class="modal-title" id="modal-title"></h2>
         <p class="modal-desc" id="modal-desc"></p>
         <div class="modal-actions">
-          <a href="#contact" class="btn btn-primary" id="modal-cta" onclick="closeModal()">
+          <a href="#contact" class="btn btn-primary" id="modal-cta">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 014.5 10.81 19.79 19.79 0 011.5 2.18 2 2 0 013.5 0h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L7.91 7.91a16 16 0 006.29 6.29l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z"/></svg>
             Contact for Order
           </a>

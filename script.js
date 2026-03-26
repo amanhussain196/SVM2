@@ -37,7 +37,7 @@ function getCatImg(cat) {
 /* ─── STATE ─────────────────────────────────────── */
 let allProducts      = [];
 let filteredProducts = [];
-let activeCategory   = 'ALL';
+let activeCategory   = 'SPICES';
 let searchQuery      = '';
 let currentPage      = 1;
 const productsPerPage = 20;
@@ -71,6 +71,7 @@ const modalVariant    = document.getElementById('modal-variant');
 const modalDesc       = document.getElementById('modal-desc');
 const contactForm     = document.getElementById('contact-form');
 const formSuccess     = document.getElementById('form-success');
+const modalCta        = document.getElementById('modal-cta');
 
 /* Slider elements (new) */
 const sliderTrack     = document.getElementById('slider-track');
@@ -111,7 +112,7 @@ async function loadProducts() {
         updateStatCount();
         buildCategoryCards();
         buildFilterButtons();
-        renderProducts();
+        setCategory(activeCategory); // Correctly initializes UI and filter state
         return;
       }
     }
@@ -124,7 +125,7 @@ async function loadProducts() {
     updateStatCount();
     buildCategoryCards();
     buildFilterButtons();
-    renderProducts();
+    setCategory(activeCategory); // Correctly initializes UI and filter state
 
   } catch (err) {
     console.error('Error loading products:', err);
@@ -214,6 +215,7 @@ function buildFilterButtons() {
   const cats = [];
   allProducts.forEach(p => { if (!seen.has(p.category)) { seen.add(p.category); cats.push(p.category); } });
   Array.from(filterWrap.querySelectorAll('.filter-btn:not([data-cat="ALL"])')).forEach(b => b.remove());
+  
   cats.forEach(cat => {
     const btn = document.createElement('button');
     btn.className = 'filter-btn';
@@ -221,8 +223,12 @@ function buildFilterButtons() {
     const label = (CATEGORY_META[cat] && CATEGORY_META[cat].label) || (cat.charAt(0) + cat.slice(1).toLowerCase());
     btn.textContent = label;
     btn.id = 'filter-' + cat.replace(/\W+/g, '-').toLowerCase();
-    btn.addEventListener('click', () => setCategory(cat));
     filterWrap.appendChild(btn);
+  });
+
+  // Attach click events to ALL filter buttons (including the static "All" button)
+  filterWrap.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.onclick = () => setCategory(btn.dataset.cat);
   });
 }
 
@@ -233,19 +239,22 @@ function setCategory(cat) {
   applyFilters();
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
 }
+window.setCategory = setCategory;
 
 /* ─── APPLY FILTERS ─────────────────────────────── */
 function applyFilters() {
   const q = searchQuery.toLowerCase().trim();
   currentPage = 1; // Reset pagination on search
   filteredProducts = allProducts.filter(p => {
-    const matchCat    = (activeCategory === 'ALL') || (p.category === activeCategory);
-    const matchSearch = !q
-      || p.title.toLowerCase().includes(q)
-      || (p.category || '').toLowerCase().includes(q)
-      || (p.description || '').toLowerCase().includes(q)
-      || (p.variant || '').toLowerCase().includes(q);
-    return matchCat && matchSearch;
+    // If there is a search query, search across ALL products (inclusive)
+    if (q) {
+      return p.title.toLowerCase().includes(q)
+        || (p.category || '').toLowerCase().includes(q)
+        || (p.description || '').toLowerCase().includes(q)
+        || (p.variant || '').toLowerCase().includes(q);
+    }
+    // Otherwise, filter by selected category
+    return (activeCategory === 'ALL') || (p.category === activeCategory);
   });
   renderProducts();
 }
@@ -467,6 +476,23 @@ document.addEventListener('keydown', e => {
   }
 });
 
+/* ─── MODAL CONTACT FILL ────────────────────────── */
+if (modalCta) {
+  modalCta.addEventListener('click', () => {
+    const title = modalTitle.textContent;
+    const subjectInput = document.getElementById('form-subject');
+    if (subjectInput) {
+      subjectInput.value = `Enquiry: Order details for "${title}"`;
+      // Optional: highlight or focus the message field after a brief delay
+      setTimeout(() => {
+        const messageInput = document.getElementById('form-message');
+        if (messageInput) messageInput.focus();
+      }, 600);
+    }
+    closeModal();
+  });
+}
+
 /* ─── SEARCH ─────────────────────────────────────── */
 searchInput.addEventListener('input', () => {
   searchQuery = searchInput.value;
@@ -521,23 +547,16 @@ backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 's
 /* ─── MOBILE NAV ─────────────────────────────────── */
 navToggle.addEventListener('click', () => {
   navLinks.classList.toggle('open');
+  navToggle.classList.toggle('active');
   const isOpen = navLinks.classList.contains('open');
   navToggle.setAttribute('aria-expanded', isOpen);
-  const spans = navToggle.querySelectorAll('span');
-  if (isOpen) {
-    spans[0].style.transform = 'rotate(45deg) translate(5px,5px)';
-    spans[1].style.opacity   = '0';
-    spans[2].style.transform = 'rotate(-45deg) translate(5px,-5px)';
-  } else {
-    spans.forEach(s => { s.style.transform = ''; s.style.opacity = ''; });
-  }
 });
 
 /* close mobile nav on link click */
 document.querySelectorAll('.nav-link').forEach(a => {
   a.addEventListener('click', () => {
     navLinks.classList.remove('open');
-    navToggle.querySelectorAll('span').forEach(s => { s.style.transform = ''; s.style.opacity = ''; });
+    navToggle.classList.remove('active');
   });
 });
 
