@@ -642,7 +642,7 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
 /* Image area */
 .card-image-wrap {
   position: relative; overflow: hidden;
-  height: 210px; background: var(--beige-2);
+  aspect-ratio: 1 / 1; background: var(--beige-2);
   display: flex; align-items: center; justify-content: center;
   flex-shrink: 0;
 }
