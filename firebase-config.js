@@ -12,13 +12,13 @@
 
 /* ── Step 1: Paste your Firebase project config here ── */
 export const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyB8n6Gnly9ReX4YzkwLp__xyHxf6OX67SA",
-  authDomain: "svmfoods-4291c.firebaseapp.com",
-  projectId: "svmfoods-4291c",
-  storageBucket: "svmfoods-4291c.firebasestorage.app",
-  messagingSenderId: "1052931988050",
-  appId: "1:1052931988050:web:37a9615a7010690dfa9d8b",
-  measurementId: "G-TW95H1B1H2"
+  apiKey: "AIzaSyCH5DYwVBlRkFBwx_rBMPXPcQabzuTiAHQ",
+  authDomain: "webadminsvm-38a19.firebaseapp.com",
+  projectId: "webadminsvm-38a19",
+  storageBucket: "webadminsvm-38a19.firebasestorage.app",
+  messagingSenderId: "44706705114",
+  appId: "1:44706705114:web:5094853e10b1dd17ae7fe3",
+  measurementId: "G-DBEZN00JMY"
 };
 
 /* ── Step 2: Set this to true once config is filled ── */
