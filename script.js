@@ -327,8 +327,7 @@ function createProductCard(product, index) {
       <div class="card-title" title="${escHtml(product.title)}">${escHtml(product.title)}</div>
       <div class="card-desc">${escHtml(product.description || '')}</div>
       <div class="card-footer">
-        ${product.variant ? `<span class="card-variant">📦 ${escHtml(product.variant)}</span>` : '<span></span>'}
-        <span class="card-cta">Details <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg></span>
+        ${product.variant ? `<span class="card-variant">📦 ${escHtml(product.variant)}</span>` : ''}
       </div>
     </div>`;
 
