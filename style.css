@@ -305,7 +305,7 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
   width: 48px; height: 48px; border-radius: 50%;
   background: rgba(255,255,255,0.12); backdrop-filter: blur(6px);
   border: 1px solid rgba(255,255,255,0.2);
-  color: white; display: flex; align-items: center; justify-content: center;
+  color: white; display: none; align-items: center; justify-content: center;
   z-index: 10; cursor: pointer;
   transition: background var(--transition), transform var(--transition);
 }
@@ -1041,7 +1041,7 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
   position: fixed; bottom: 100px; right: 24px; z-index: 900;
   width: 56px; height: 56px; border-radius: 50%;
   background: #25d366; color: #fff;
-  display: flex; align-items: center; justify-content: center;
+  display: none; align-items: center; justify-content: center;
   box-shadow: 0 4px 20px rgba(37,211,102,0.4);
   transition: transform var(--transition), box-shadow var(--transition);
 }
@@ -1294,7 +1294,6 @@ button { border: none; background: none; cursor: pointer; font-family: inherit; 
   .stat-num { font-size: 1.3rem; }
 
   .categories-grid { grid-template-columns: repeat(2, 1fr); }
-  .hero-arrow { width: 36px; height: 36px; }
   .hero-prev { left: 8px; }
   .hero-next { right: 8px; }
   .hslide-content { padding-top: calc(var(--nav-h) + 2.5rem); padding-bottom: 2rem; padding-left: 15px; padding-right: 15px; }
