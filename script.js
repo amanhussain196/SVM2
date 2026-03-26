@@ -24,6 +24,7 @@ const CATEGORY_META = {
   'Dairy':            { icon: '🥛', label: 'Dairy',           img: 'images/categories/dairy.png' },
   'Drinks':           { icon: '🥤', label: 'Drinks',          img: 'images/categories/drinks.png' },
   'Meat':             { icon: '🥩', label: 'Meat',            img: 'images/categories/meat.png' },
+  'Paper and Packing products': { icon: '🧻', label: 'Paper & Packing', img: 'images/categories/paper_packing.png' },
 };
 
 /* Fallback icon for any unexpected categories */

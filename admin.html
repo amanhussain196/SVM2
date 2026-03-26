@@ -190,20 +190,45 @@
         </select>
       </div>
 
+      <!-- Bulk Actions -->
+      <div id="bulk-actions" class="bulk-actions" style="display:none;">
+        <div class="bulk-info">
+          <span id="bulk-count">0 products selected</span>
+        </div>
+        <div class="bulk-ops">
+          <div class="bulk-input-group">
+            <select id="bulk-new-cat" class="cat-select">
+              <option value="">Move to Category…</option>
+              <!-- Populated dynamically -->
+            </select>
+            <button id="bulk-update-btn" class="btn-primary">
+              <span id="bulk-update-text">Update</span>
+              <div id="bulk-update-spinner" class="spinner-sm" style="display:none;"></div>
+            </button>
+          </div>
+          <div class="bulk-divider"></div>
+          <button id="bulk-delete-btn" class="btn-ghost" title="Delete selected products">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 01-2 2H8a2 2 0 01-2-2L5 6"/></svg>
+            Delete
+          </button>
+        </div>
+      </div>
+
       <!-- Products Table -->
       <div class="table-wrap">
         <table class="products-table" id="products-table">
           <thead>
             <tr>
-              <th>Image</th>
+              <th width="40"><input type="checkbox" id="select-all-cb" /></th>
+              <th width="60">Image</th>
               <th>Name</th>
               <th>Category</th>
               <th>Description</th>
-              <th>Actions</th>
+              <th width="140">Actions</th>
             </tr>
           </thead>
           <tbody id="products-tbody">
-            <tr><td colspan="5" class="table-loading"><div class="spinner"></div> Loading products…</td></tr>
+            <tr><td colspan="6" class="table-loading"><div class="spinner"></div> Loading products…</td></tr>
           </tbody>
         </table>
       </div>
@@ -235,26 +260,32 @@
 
             <div class="field-group">
               <label for="p-category">Category <span class="req">*</span></label>
-              <select id="p-category" required>
-                <option value="">Select category…</option>
-                <option value="RICE">Rice</option>
-                <option value="SPICES">Spices</option>
-                <option value="MDH SPICES">MDH Spices</option>
-                <option value="SHAN SPICES">Shan Spices</option>
-                <option value="DALS & BEANS">Dals & Beans</option>
-                <option value="FLOURS">Flours</option>
-                <option value="CANNED PRODUCTS">Canned Products</option>
-                <option value="NUTS & DRY FRUITS">Nuts & Dry Fruits</option>
-                <option value="PICKLES / CHUTNEY">Pickles / Chutney</option>
-                <option value="FROZEN">Frozen</option>
-                <option value="OIL">Oil</option>
-                <option value="TEA & COFFEE">Tea & Coffee</option>
-                <option value="SNACKS">Snacks</option>
-                <option value="PAPADS">Papads</option>
-                <option value="Dairy">Dairy</option>
-                <option value="Drinks">Drinks</option>
-                <option value="Meat">Meat</option>
-              </select>
+              <div class="category-field-row">
+                <select id="p-category" required>
+                  <option value="">Select category…</option>
+                  <option value="RICE">Rice</option>
+                  <option value="SPICES">Spices</option>
+                  <option value="MDH SPICES">MDH Spices</option>
+                  <option value="SHAN SPICES">Shan Spices</option>
+                  <option value="DALS & BEANS">Dals & Beans</option>
+                  <option value="FLOURS">Flours</option>
+                  <option value="CANNED PRODUCTS">Canned Products</option>
+                  <option value="NUTS & DRY FRUITS">Nuts & Dry Fruits</option>
+                  <option value="PICKLES / CHUTNEY">Pickles / Chutney</option>
+                  <option value="FROZEN">Frozen</option>
+                  <option value="OIL">Oil</option>
+                  <option value="TEA & COFFEE">Tea & Coffee</option>
+                  <option value="SNACKS">Snacks</option>
+                  <option value="PAPADS">Papads</option>
+                  <option value="Dairy">Dairy</option>
+                  <option value="Drinks">Drinks</option>
+                  <option value="Meat">Meat</option>
+                </select>
+                <button type="button" id="btn-add-cat" class="btn-sm" title="Add New Category">+</button>
+              </div>
+              <div id="new-cat-wrap" style="display:none; margin-top:0.5rem;">
+                <input type="text" id="p-new-category" placeholder="Type new category name..." />
+              </div>
             </div>
 
             <div class="field-group">

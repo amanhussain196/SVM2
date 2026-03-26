@@ -35,6 +35,7 @@ let currentPage = 1;
 const PAGE_SIZE = 25;
 let deleteTargetId = null;
 let editingProductId = null;
+let selectedProductIds = new Set();
 
 /* ─── Firebase SDK helpers (lazy import cache) ─── */
 let _fsdk = null, _asdk = null, _ssdk = null;
@@ -71,6 +72,7 @@ async function init() {
   setupDeleteAll();
   setupImport();
   setupSearch();
+  setupBulkActions();
   bindNavButtons();
 }
 
@@ -314,7 +316,9 @@ function renderProductsTable() {
     const thumbHtml = imgSrc
       ? `<div class="tbl-thumb"><img src="${imgSrc}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='📦'" /></div>`
       : `<div class="tbl-thumb">📦</div>`;
-    return `<tr data-id="${p.id}">
+    const isChecked = selectedProductIds.has(p.id);
+    return `<tr data-id="${p.id}" class="${isChecked ? 'row-selected' : ''}">
+      <td><input type="checkbox" class="prod-cb" data-id="${p.id}" ${isChecked ? 'checked' : ''} /></td>
       <td>${thumbHtml}</td>
       <td><div class="tbl-name" title="${escHtml(p.title || p.name)}">${escHtml(p.title || p.name)}</div></td>
       <td><span class="tbl-cat">${escHtml(p.category)}</span></td>
@@ -333,6 +337,15 @@ function renderProductsTable() {
       </td>
     </tr>`;
   }).join('');
+
+  /* Bind Checkboxes */
+  tbody.querySelectorAll('.prod-cb').forEach(cb => {
+    cb.addEventListener('change', () => {
+      if (cb.checked) selectedProductIds.add(cb.dataset.id);
+      else selectedProductIds.delete(cb.dataset.id);
+      updateBulkActionBar();
+    });
+  });
 
   /* Event delegation for edit/delete */
   tbody.querySelectorAll('[data-edit]').forEach(btn => {
@@ -383,29 +396,159 @@ function applyFilters() {
   filteredProducts = allProducts.filter(p => {
     const nameLow = (p.title || p.name || '').toLowerCase();
     const descLow = (p.description || '').toLowerCase();
-    const matchQ   = !q || nameLow.includes(q) || descLow.includes(q);
+    const catLow  = (p.category || '').toLowerCase();
+    const matchQ   = !q || nameLow.includes(q) || descLow.includes(q) || catLow.includes(q);
     const matchCat = !cat || p.category === cat;
     return matchQ && matchCat;
   });
   currentPage = 1;
+  selectedProductIds.clear();
+  updateBulkActionBar();
   renderProductsTable();
 }
 
 function updateCatFilter() {
-  const sel = document.getElementById('prod-cat-filter');
+  const filterSel = document.getElementById('prod-cat-filter');
+  const formSel   = document.getElementById('p-category');
+  const bulkSel   = document.getElementById('bulk-new-cat');
+  
+  // Get unique categories from allProducts
   const cats = [...new Set(allProducts.map(p => p.category))].sort();
-  cats.forEach(c => {
-    if (c && !sel.querySelector(`[value="${c}"]`)) {
-      const opt = document.createElement('option');
-      opt.value = c; opt.textContent = c;
-      sel.appendChild(opt);
+  
+  // Helper to add unique options
+  const syncSelect = (sel, list, keepFirst = true) => {
+    if (!sel) return;
+    const existing = new Set([...sel.options].map(o => o.value));
+    list.forEach(c => {
+      if (c && !existing.has(c)) {
+        const opt = document.createElement('option');
+        opt.value = c; opt.textContent = c;
+        sel.appendChild(opt);
+      }
+    });
+  };
+
+  syncSelect(filterSel, cats);
+  syncSelect(formSel, cats);
+  syncSelect(bulkSel, cats);
+}
+
+/* ════════════════════════════════════════════════════
+   BULK ACTIONS
+   ═══════════════════════════════════════════════════ */
+function setupBulkActions() {
+  const selectAllCb = document.getElementById('select-all-cb');
+  const updateBtn  = document.getElementById('bulk-update-btn');
+  const deleteBtn  = document.getElementById('bulk-delete-btn');
+
+  selectAllCb?.addEventListener('change', () => {
+    if (selectAllCb.checked) {
+      filteredProducts.forEach(p => selectedProductIds.add(p.id));
+    } else {
+      selectedProductIds.clear();
     }
+    renderProductsTable();
+    updateBulkActionBar();
   });
+
+  updateBtn?.addEventListener('click', executeBulkUpdate);
+  deleteBtn?.addEventListener('click', executeBulkDelete);
+}
+
+function updateBulkActionBar() {
+  const bar = document.getElementById('bulk-actions');
+  const countLabel = document.getElementById('bulk-count');
+  const size = selectedProductIds.size;
+
+  if (size > 0) {
+    bar.style.display = 'flex';
+    countLabel.textContent = `${size} product${size === 1 ? '' : 's'} selected`;
+  } else {
+    bar.style.display = 'none';
+    const selectAllCb = document.getElementById('select-all-cb');
+    if (selectAllCb) selectAllCb.checked = false;
+  }
+}
+
+async function executeBulkUpdate() {
+  const newCat = document.getElementById('bulk-new-cat').value;
+  if (!newCat) { showToast('Select a category first', 'info'); return; }
+  
+  if (!confirm(`Are you sure you want to move ${selectedProductIds.size} products to "${newCat}"?`)) return;
+
+  setBulkUpdateLoading(true);
+  try {
+    const { writeBatch, doc, serverTimestamp } = await getFSDK();
+    const batch = writeBatch(db);
+    const ids = Array.from(selectedProductIds);
+
+    ids.forEach(id => {
+      const ref = doc(db, COLLECTIONS.products, id);
+      batch.update(ref, { category: newCat, updatedAt: serverTimestamp() });
+    });
+
+    await batch.commit();
+
+    // Update local state
+    allProducts.forEach(p => {
+      if (selectedProductIds.has(p.id)) p.category = newCat;
+    });
+
+    showToast(`Successfully updated ${ids.length} products`, 'success');
+    selectedProductIds.clear();
+    updateBulkActionBar();
+    applyFilters();
+    updateCatFilter();
+  } catch (err) {
+    console.error('Bulk update failed:', err);
+    showToast('Bulk update failed: ' + err.message, 'error');
+  } finally {
+    setBulkUpdateLoading(false);
+  }
+}
+
+async function executeBulkDelete() {
+  if (!confirm(`Permanently delete ${selectedProductIds.size} products? This cannot be undone.`)) return;
+
+  setBulkUpdateLoading(true); // Re-use spinner or similar
+  try {
+    const { writeBatch, doc } = await getFSDK();
+    const batch = writeBatch(db);
+    const ids = Array.from(selectedProductIds);
+
+    ids.forEach(id => {
+      batch.delete(doc(db, COLLECTIONS.products, id));
+    });
+
+    await batch.commit();
+
+    // Update local state
+    allProducts = allProducts.filter(p => !selectedProductIds.has(p.id));
+
+    showToast(`Successfully deleted ${ids.length} products`, 'success');
+    selectedProductIds.clear();
+    updateBulkActionBar();
+    applyFilters();
+  } catch (err) {
+    console.error('Bulk delete failed:', err);
+    showToast('Bulk delete failed: ' + err.message, 'error');
+  } finally {
+    setBulkUpdateLoading(false);
+  }
+}
+
+function setBulkUpdateLoading(on) {
+  const btn = document.getElementById('bulk-update-btn');
+  const text = document.getElementById('bulk-update-text');
+  const spin = document.getElementById('bulk-update-spinner');
+  btn.disabled = on;
+  text.style.display = on ? 'none' : 'block';
+  spin.style.display = on ? 'block' : 'none';
 }
 
 /* ════════════════════════════════════════════════════
    PRODUCT FORM (ADD / EDIT)
-═══════════════════════════════════════════════════ */
+   ═══════════════════════════════════════════════════ */
 function setupProductForm() {
   const form     = document.getElementById('product-form');
   const stockCb  = document.getElementById('p-instock');
@@ -414,6 +557,27 @@ function setupProductForm() {
   /* Stock toggle label */
   stockCb?.addEventListener('change', () => {
     stockLbl.textContent = stockCb.checked ? 'In Stock' : 'Out of Stock';
+  });
+
+  /* New category toggle */
+  const btnAddCat   = document.getElementById('btn-add-cat');
+  const newCatWrap  = document.getElementById('new-cat-wrap');
+  const catSelect   = document.getElementById('p-category');
+  const newCatInput = document.getElementById('p-new-category');
+
+  btnAddCat?.addEventListener('click', () => {
+    const isHidden = newCatWrap.style.display === 'none';
+    newCatWrap.style.display = isHidden ? 'block' : 'none';
+    btnAddCat.textContent = isHidden ? '×' : '+';
+    btnAddCat.title = isHidden ? 'Cancel New Category' : 'Add New Category';
+    if (isHidden) {
+      catSelect.value = '';
+      catSelect.disabled = true;
+      newCatInput.focus();
+    } else {
+      catSelect.disabled = false;
+      newCatInput.value = '';
+    }
   });
 
   /* Form submit */
@@ -432,6 +596,22 @@ function resetProductForm() {
   document.getElementById('p-img1').value = '';
   document.getElementById('p-img2').value = '';
   document.getElementById('p-img3').value = '';
+  
+  // Reset new category field
+  const newCatWrap  = document.getElementById('new-cat-wrap');
+  const btnAddCat   = document.getElementById('btn-add-cat');
+  const catSelect   = document.getElementById('p-category');
+  if (newCatWrap) newCatWrap.style.display = 'none';
+  if (btnAddCat) {
+    btnAddCat.textContent = '+';
+    btnAddCat.title = 'Add New Category';
+  }
+  if (catSelect) {
+    catSelect.disabled = false;
+    catSelect.value = '';
+  }
+  document.getElementById('p-new-category').value = '';
+
   editingProductId = null;
 }
 
@@ -461,7 +641,14 @@ function startEdit(productId) {
 
 async function saveProduct() {
   const nameVal = document.getElementById('p-name').value.trim();
-  const catVal  = document.getElementById('p-category').value;
+  const catSelect = document.getElementById('p-category');
+  const newCatInput = document.getElementById('p-new-category');
+  const newCatWrap = document.getElementById('new-cat-wrap');
+
+  let catVal = catSelect.value;
+  if (newCatWrap.style.display !== 'none') {
+    catVal = newCatInput.value.trim();
+  }
   
   if (!nameVal || !catVal) { 
     showToast('Name and category are required', 'error'); 
@@ -507,6 +694,7 @@ async function saveProduct() {
     resetProductForm();
     switchView('products');
     renderProductsTable();
+    updateCatFilter();
 
   } catch (err) {
     console.error('[Save] Error:', err);
